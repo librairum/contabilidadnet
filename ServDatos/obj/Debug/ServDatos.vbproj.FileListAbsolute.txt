@@ -1,0 +1,152 @@
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\bin\Debug\ServDatos.dll
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\bin\Debug\ServDatos.pdb
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\bin\Debug\ServDatos.xml
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\obj\Debug\ServDatos.dll
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\obj\Debug\ServDatos.xml
+C:\Mis documentos\My SQL\Intranetmina\ServDatos\obj\Debug\ServDatos.pdb
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\bin\Debug\ServDatos.dll
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\bin\Debug\ServDatos.pdb
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\bin\Debug\ServDatos.xml
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\obj\Debug\ServDatos.dll
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\obj\Debug\ServDatos.xml
+C:\Mis Documentos\My SQL\ControlVacacionesFisicas\Intranetmina_Vacaciones\ServDatos\obj\Debug\ServDatos.pdb
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+D:\Mis documentos\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\Mis documentos\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\Mis documentos\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\Mis documentos\ContabilidadNEt\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\Mis documentos\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\Mis documentos\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\Mis documentos\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\Mis documentos\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+C:\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+C:\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+C:\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+C:\ContabilidadNEt\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+C:\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+C:\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+C:\InmobiliariaOdin\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+C:\backupOdin5\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+C:\backupOdin5\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+C:\backupOdin5\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+C:\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ResolveAssemblyReference.cache
+C:\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+C:\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+C:\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\bin\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\bin\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\bin\Debug\ServDatos.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\obj\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\obj\Debug\ServDatos.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ServDatos\obj\Debug\ServDatos.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb

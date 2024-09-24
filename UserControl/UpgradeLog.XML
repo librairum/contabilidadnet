@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UserControl">
+</Property><Property Name="Solution File" Value="E:\prueba\Vstudio\UserControl\UserControl.sln">
+</Property><Property Name="Date" Value="Martes, 12 de Octubre de 2010">
+</Property><Property Name="Time" Value="12:04:09 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="UserControl" Source="UserControl.vbproj" Description="Project file successfully backed up as E:\prueba\Vstudio\UserControl\Backup\UserControl.vbproj">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="UserControl.vbproj.user" Description="Project user file successfully backed up as E:\prueba\Vstudio\UserControl\Backup\UserControl.vbproj.user">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="BarraAccion.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\BarraAccion.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="BarraAccion.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\BarraAccion.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="Buscador.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\Buscador.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="Buscador.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\Buscador.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="Entidad.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\Entidad.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsAcceso.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsAcceso.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsAcceso.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsAcceso.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsBarra.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsBarra.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksBarraB.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksBarraB.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksBarraB.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksBarraB.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksButton.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksButton.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksDataGridView.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksDataGridView.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksDatePicker.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksDatePicker.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsListView.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsListView.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsTextBox.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsTextBox.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksComboBox.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksComboBox.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksBarraM.Designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksBarraM.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksBarraM.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksBarraM.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ueBarraLista.designer.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ueBarraLista.designer.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ueBarraLista.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ueBarraLista.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ueEntidad.vb" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ueEntidad.vb">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="My Project\Application.myapp" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="My Project\Settings.settings" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="BarraAccion.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\BarraAccion.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="Buscador.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\Buscador.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsAcceso.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsAcceso.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsBarra.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsBarra.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksBarraB.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksBarraB.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="KsTextBox.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\KsTextBox.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="My Project\Resources.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ksBarraM.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ksBarraM.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="ueBarraLista.resx" Description="File successfully backed up as E:\prueba\Vstudio\UserControl\Backup\ueBarraLista.resx">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="UserControl.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UserControl" Source="UserControl.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UserControl" Source="UserControl.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

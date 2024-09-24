@@ -1,0 +1,373 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class Frm_CostoActividades
+    Inherits System.Windows.Forms.Form
+
+    'Form overrides dispose to clean up the component list.
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Required by the Windows Form Designer
+    Private components As System.ComponentModel.IContainer
+
+    'NOTE: The following procedure is required by the Windows Form Designer
+    'It can be modified using the Windows Form Designer.  
+    'Do not modify it using the code editor.
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Frm_CostoActividades))
+        Me.Label2 = New System.Windows.Forms.Label
+        Me.btnhelp_0 = New System.Windows.Forms.Button
+        Me.Panel1 = New System.Windows.Forms.Panel
+        Me.btncancelar = New System.Windows.Forms.Button
+        Me.btngrabar = New System.Windows.Forms.Button
+        Me.btnsalir = New System.Windows.Forms.Button
+        Me.btneliminar = New System.Windows.Forms.Button
+        Me.btnmodificar = New System.Windows.Forms.Button
+        Me.btnnuevo = New System.Windows.Forms.Button
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox
+        Me.GroupBox3 = New System.Windows.Forms.GroupBox
+        Me.rbtopcion_1 = New System.Windows.Forms.RadioButton
+        Me.rbtopcion_0 = New System.Windows.Forms.RadioButton
+        Me.txtcodsubproceso = New KS.UserControl.ksTextBox
+        Me.Label3 = New System.Windows.Forms.Label
+        Me.lblhelp_0 = New System.Windows.Forms.Label
+        Me.Label1 = New System.Windows.Forms.Label
+        Me.Label17 = New System.Windows.Forms.Label
+        Me.txtCodigo = New KS.UserControl.ksTextBox
+        Me.txtDescri = New KS.UserControl.ksTextBox
+        Me.tblhelp = New C1.Win.C1TrueDBGrid.C1TrueDBGrid
+        Me.Panel3 = New System.Windows.Forms.Panel
+        Me.tblconsulta = New C1.Win.C1TrueDBGrid.C1TrueDBGrid
+        Me.Panel1.SuspendLayout()
+        Me.GroupBox1.SuspendLayout()
+        Me.GroupBox3.SuspendLayout()
+        CType(Me.tblhelp, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.tblconsulta, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.SuspendLayout()
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Location = New System.Drawing.Point(8, 20)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(67, 13)
+        Me.Label2.TabIndex = 199
+        Me.Label2.Text = "Sub proceso"
+        '
+        'btnhelp_0
+        '
+        Me.btnhelp_0.ForeColor = System.Drawing.SystemColors.ControlText
+        Me.btnhelp_0.Location = New System.Drawing.Point(114, 17)
+        Me.btnhelp_0.Name = "btnhelp_0"
+        Me.btnhelp_0.Size = New System.Drawing.Size(22, 22)
+        Me.btnhelp_0.TabIndex = 198
+        Me.btnhelp_0.Text = ":::"
+        Me.btnhelp_0.UseVisualStyleBackColor = True
+        '
+        'Panel1
+        '
+        Me.Panel1.AutoSize = True
+        Me.Panel1.BackColor = System.Drawing.SystemColors.WindowFrame
+        Me.Panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel1.Controls.Add(Me.btncancelar)
+        Me.Panel1.Controls.Add(Me.btngrabar)
+        Me.Panel1.Controls.Add(Me.btnsalir)
+        Me.Panel1.Controls.Add(Me.btneliminar)
+        Me.Panel1.Controls.Add(Me.btnmodificar)
+        Me.Panel1.Controls.Add(Me.btnnuevo)
+        Me.Panel1.Dock = System.Windows.Forms.DockStyle.Top
+        Me.Panel1.Location = New System.Drawing.Point(0, 0)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(475, 31)
+        Me.Panel1.TabIndex = 166
+        '
+        'btncancelar
+        '
+        Me.btncancelar.Image = Global.ContabilidadNet.My.Resources.Resources.cancel
+        Me.btncancelar.Location = New System.Drawing.Point(88, 2)
+        Me.btncancelar.Name = "btncancelar"
+        Me.btncancelar.Size = New System.Drawing.Size(24, 24)
+        Me.btncancelar.TabIndex = 2
+        Me.btncancelar.UseVisualStyleBackColor = True
+        '
+        'btngrabar
+        '
+        Me.btngrabar.Image = Global.ContabilidadNet.My.Resources.Resources.accept
+        Me.btngrabar.Location = New System.Drawing.Point(66, 2)
+        Me.btngrabar.Name = "btngrabar"
+        Me.btngrabar.Size = New System.Drawing.Size(24, 24)
+        Me.btngrabar.TabIndex = 1
+        Me.btngrabar.UseVisualStyleBackColor = True
+        '
+        'btnsalir
+        '
+        Me.btnsalir.Image = Global.ContabilidadNet.My.Resources.Resources.salir
+        Me.btnsalir.Location = New System.Drawing.Point(424, 2)
+        Me.btnsalir.Name = "btnsalir"
+        Me.btnsalir.Size = New System.Drawing.Size(24, 24)
+        Me.btnsalir.TabIndex = 5
+        Me.btnsalir.UseVisualStyleBackColor = True
+        '
+        'btneliminar
+        '
+        Me.btneliminar.Image = Global.ContabilidadNet.My.Resources.Resources.delete
+        Me.btneliminar.Location = New System.Drawing.Point(45, 2)
+        Me.btneliminar.Name = "btneliminar"
+        Me.btneliminar.Size = New System.Drawing.Size(24, 24)
+        Me.btneliminar.TabIndex = 3
+        Me.btneliminar.UseVisualStyleBackColor = True
+        '
+        'btnmodificar
+        '
+        Me.btnmodificar.Image = Global.ContabilidadNet.My.Resources.Resources.edit
+        Me.btnmodificar.Location = New System.Drawing.Point(24, 2)
+        Me.btnmodificar.Name = "btnmodificar"
+        Me.btnmodificar.Size = New System.Drawing.Size(24, 24)
+        Me.btnmodificar.TabIndex = 4
+        Me.btnmodificar.UseVisualStyleBackColor = True
+        '
+        'btnnuevo
+        '
+        Me.btnnuevo.Image = Global.ContabilidadNet.My.Resources.Resources.add
+        Me.btnnuevo.Location = New System.Drawing.Point(2, 2)
+        Me.btnnuevo.Name = "btnnuevo"
+        Me.btnnuevo.Size = New System.Drawing.Size(24, 24)
+        Me.btnnuevo.TabIndex = 5
+        Me.btnnuevo.UseVisualStyleBackColor = True
+        '
+        'GroupBox1
+        '
+        Me.GroupBox1.Controls.Add(Me.GroupBox3)
+        Me.GroupBox1.Controls.Add(Me.Label1)
+        Me.GroupBox1.Controls.Add(Me.Label17)
+        Me.GroupBox1.Controls.Add(Me.txtCodigo)
+        Me.GroupBox1.Controls.Add(Me.txtDescri)
+        Me.GroupBox1.Location = New System.Drawing.Point(4, 32)
+        Me.GroupBox1.Name = "GroupBox1"
+        Me.GroupBox1.Size = New System.Drawing.Size(456, 128)
+        Me.GroupBox1.TabIndex = 165
+        Me.GroupBox1.TabStop = False
+        '
+        'GroupBox3
+        '
+        Me.GroupBox3.Controls.Add(Me.rbtopcion_1)
+        Me.GroupBox3.Controls.Add(Me.rbtopcion_0)
+        Me.GroupBox3.Controls.Add(Me.Label2)
+        Me.GroupBox3.Controls.Add(Me.txtcodsubproceso)
+        Me.GroupBox3.Controls.Add(Me.Label3)
+        Me.GroupBox3.Controls.Add(Me.lblhelp_0)
+        Me.GroupBox3.Controls.Add(Me.btnhelp_0)
+        Me.GroupBox3.Location = New System.Drawing.Point(68, 62)
+        Me.GroupBox3.Name = "GroupBox3"
+        Me.GroupBox3.Size = New System.Drawing.Size(382, 62)
+        Me.GroupBox3.TabIndex = 203
+        Me.GroupBox3.TabStop = False
+        Me.GroupBox3.Text = "La actividad pertenece al sub proceso y su tipo de costo es:"
+        '
+        'rbtopcion_1
+        '
+        Me.rbtopcion_1.AutoSize = True
+        Me.rbtopcion_1.Location = New System.Drawing.Point(141, 41)
+        Me.rbtopcion_1.Name = "rbtopcion_1"
+        Me.rbtopcion_1.Size = New System.Drawing.Size(66, 17)
+        Me.rbtopcion_1.TabIndex = 1
+        Me.rbtopcion_1.TabStop = True
+        Me.rbtopcion_1.Text = "Indirecto"
+        Me.rbtopcion_1.UseVisualStyleBackColor = True
+        '
+        'rbtopcion_0
+        '
+        Me.rbtopcion_0.AutoSize = True
+        Me.rbtopcion_0.Location = New System.Drawing.Point(81, 41)
+        Me.rbtopcion_0.Name = "rbtopcion_0"
+        Me.rbtopcion_0.Size = New System.Drawing.Size(59, 17)
+        Me.rbtopcion_0.TabIndex = 0
+        Me.rbtopcion_0.TabStop = True
+        Me.rbtopcion_0.Text = "Directo"
+        Me.rbtopcion_0.UseVisualStyleBackColor = True
+        '
+        'txtcodsubproceso
+        '
+        Me.txtcodsubproceso.BackColor = System.Drawing.Color.White
+        Me.txtcodsubproceso.Location = New System.Drawing.Point(80, 18)
+        Me.txtcodsubproceso.Name = "txtcodsubproceso"
+        Me.txtcodsubproceso.NroDecimales = CType(0, Short)
+        Me.txtcodsubproceso.SelectGotFocus = True
+        Me.txtcodsubproceso.Size = New System.Drawing.Size(34, 20)
+        Me.txtcodsubproceso.TabIndex = 0
+        Me.txtcodsubproceso.Tabulado = True
+        Me.txtcodsubproceso.ValorAceptado = KS.UserControl.ValorPermitido.enmVTodos
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Location = New System.Drawing.Point(5, 43)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(72, 13)
+        Me.Label3.TabIndex = 201
+        Me.Label3.Text = "Tipo de costo"
+        '
+        'lblhelp_0
+        '
+        Me.lblhelp_0.BackColor = System.Drawing.SystemColors.Control
+        Me.lblhelp_0.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.lblhelp_0.Cursor = System.Windows.Forms.Cursors.Default
+        Me.lblhelp_0.ForeColor = System.Drawing.Color.FromArgb(CType(CType(128, Byte), Integer), CType(CType(0, Byte), Integer), CType(CType(0, Byte), Integer))
+        Me.lblhelp_0.Location = New System.Drawing.Point(138, 19)
+        Me.lblhelp_0.Name = "lblhelp_0"
+        Me.lblhelp_0.RightToLeft = System.Windows.Forms.RightToLeft.No
+        Me.lblhelp_0.Size = New System.Drawing.Size(236, 18)
+        Me.lblhelp_0.TabIndex = 197
+        Me.lblhelp_0.Text = "???"
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(4, 39)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(63, 13)
+        Me.Label1.TabIndex = 38
+        Me.Label1.Text = "Descripcion"
+        '
+        'Label17
+        '
+        Me.Label17.AutoSize = True
+        Me.Label17.Location = New System.Drawing.Point(26, 18)
+        Me.Label17.Name = "Label17"
+        Me.Label17.Size = New System.Drawing.Size(40, 13)
+        Me.Label17.TabIndex = 37
+        Me.Label17.Text = "Codigo"
+        '
+        'txtCodigo
+        '
+        Me.txtCodigo.Location = New System.Drawing.Point(70, 16)
+        Me.txtCodigo.Name = "txtCodigo"
+        Me.txtCodigo.NroDecimales = CType(0, Short)
+        Me.txtCodigo.SelectGotFocus = True
+        Me.txtCodigo.Size = New System.Drawing.Size(36, 20)
+        Me.txtCodigo.TabIndex = 1
+        Me.txtCodigo.Tabulado = True
+        Me.txtCodigo.ValorAceptado = KS.UserControl.ValorPermitido.enmVTodos
+        '
+        'txtDescri
+        '
+        Me.txtDescri.Location = New System.Drawing.Point(70, 37)
+        Me.txtDescri.Name = "txtDescri"
+        Me.txtDescri.NroDecimales = CType(4, Short)
+        Me.txtDescri.SelectGotFocus = True
+        Me.txtDescri.Size = New System.Drawing.Size(378, 20)
+        Me.txtDescri.TabIndex = 2
+        Me.txtDescri.Tabulado = True
+        Me.txtDescri.ValorAceptado = KS.UserControl.ValorPermitido.enmVTodos
+        '
+        'tblhelp
+        '
+        Me.tblhelp.AllowUpdate = False
+        Me.tblhelp.AllowUpdateOnBlur = False
+        Me.tblhelp.AlternatingRows = True
+        Me.tblhelp.FilterBar = True
+        Me.tblhelp.GroupByCaption = "Drag a column header here to group by that column"
+        Me.tblhelp.Images.Add(CType(resources.GetObject("tblhelp.Images"), System.Drawing.Image))
+        Me.tblhelp.LinesPerRow = 1
+        Me.tblhelp.Location = New System.Drawing.Point(102, 180)
+        Me.tblhelp.Name = "tblhelp"
+        Me.tblhelp.PictureCurrentRow = CType(resources.GetObject("tblhelp.PictureCurrentRow"), System.Drawing.Image)
+        Me.tblhelp.PreviewInfo.Location = New System.Drawing.Point(0, 0)
+        Me.tblhelp.PreviewInfo.Size = New System.Drawing.Size(0, 0)
+        Me.tblhelp.PreviewInfo.ZoomFactor = 75
+        Me.tblhelp.PrintInfo.PageSettings = CType(resources.GetObject("tblhelp.PrintInfo.PageSettings"), System.Drawing.Printing.PageSettings)
+        Me.tblhelp.Size = New System.Drawing.Size(286, 116)
+        Me.tblhelp.TabIndex = 200
+        Me.tblhelp.TabStop = False
+        Me.tblhelp.Text = "C1TrueDBGrid1"
+        Me.tblhelp.UseColumnStyles = False
+        Me.tblhelp.Visible = False
+        Me.tblhelp.PropBag = resources.GetString("tblhelp.PropBag")
+        '
+        'Panel3
+        '
+        Me.Panel3.BackColor = System.Drawing.SystemColors.ControlText
+        Me.Panel3.Dock = System.Windows.Forms.DockStyle.Bottom
+        Me.Panel3.Location = New System.Drawing.Point(0, 304)
+        Me.Panel3.Name = "Panel3"
+        Me.Panel3.Size = New System.Drawing.Size(475, 25)
+        Me.Panel3.TabIndex = 168
+        '
+        'tblconsulta
+        '
+        Me.tblconsulta.AllowUpdate = False
+        Me.tblconsulta.AllowUpdateOnBlur = False
+        Me.tblconsulta.AlternatingRows = True
+        Me.tblconsulta.FilterBar = True
+        Me.tblconsulta.GroupByCaption = "Drag a column header here to group by that column"
+        Me.tblconsulta.Images.Add(CType(resources.GetObject("tblconsulta.Images"), System.Drawing.Image))
+        Me.tblconsulta.LinesPerRow = 1
+        Me.tblconsulta.Location = New System.Drawing.Point(4, 162)
+        Me.tblconsulta.Name = "tblconsulta"
+        Me.tblconsulta.PictureCurrentRow = CType(resources.GetObject("tblconsulta.PictureCurrentRow"), System.Drawing.Image)
+        Me.tblconsulta.PreviewInfo.Location = New System.Drawing.Point(0, 0)
+        Me.tblconsulta.PreviewInfo.Size = New System.Drawing.Size(0, 0)
+        Me.tblconsulta.PreviewInfo.ZoomFactor = 75
+        Me.tblconsulta.PrintInfo.PageSettings = CType(resources.GetObject("tblconsulta.PrintInfo.PageSettings"), System.Drawing.Printing.PageSettings)
+        Me.tblconsulta.Size = New System.Drawing.Size(462, 140)
+        Me.tblconsulta.TabIndex = 167
+        Me.tblconsulta.TabStop = False
+        Me.tblconsulta.Text = "C1TrueDBGrid1"
+        Me.tblconsulta.UseColumnStyles = False
+        Me.tblconsulta.PropBag = resources.GetString("tblconsulta.PropBag")
+        '
+        'Frm_CostoActividades
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(475, 329)
+        Me.Controls.Add(Me.tblhelp)
+        Me.Controls.Add(Me.Panel1)
+        Me.Controls.Add(Me.GroupBox1)
+        Me.Controls.Add(Me.tblconsulta)
+        Me.Controls.Add(Me.Panel3)
+        Me.Name = "Frm_CostoActividades"
+        Me.Text = "Frm_CostoActividades"
+        Me.Panel1.ResumeLayout(False)
+        Me.GroupBox1.ResumeLayout(False)
+        Me.GroupBox1.PerformLayout()
+        Me.GroupBox3.ResumeLayout(False)
+        Me.GroupBox3.PerformLayout()
+        CType(Me.tblhelp, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.tblconsulta, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents btnhelp_0 As System.Windows.Forms.Button
+    Friend WithEvents Panel1 As System.Windows.Forms.Panel
+    Friend WithEvents btncancelar As System.Windows.Forms.Button
+    Friend WithEvents btngrabar As System.Windows.Forms.Button
+    Friend WithEvents btnsalir As System.Windows.Forms.Button
+    Friend WithEvents btneliminar As System.Windows.Forms.Button
+    Friend WithEvents btnmodificar As System.Windows.Forms.Button
+    Friend WithEvents btnnuevo As System.Windows.Forms.Button
+    Friend WithEvents GroupBox1 As System.Windows.Forms.GroupBox
+    Public WithEvents lblhelp_0 As System.Windows.Forms.Label
+    Friend WithEvents txtcodsubproceso As KS.UserControl.ksTextBox
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+    Friend WithEvents Label17 As System.Windows.Forms.Label
+    Friend WithEvents txtCodigo As KS.UserControl.ksTextBox
+    Friend WithEvents txtDescri As KS.UserControl.ksTextBox
+    Friend WithEvents tblconsulta As C1.Win.C1TrueDBGrid.C1TrueDBGrid
+    Friend WithEvents Panel3 As System.Windows.Forms.Panel
+    Friend WithEvents rbtopcion_1 As System.Windows.Forms.RadioButton
+    Friend WithEvents rbtopcion_0 As System.Windows.Forms.RadioButton
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents tblhelp As C1.Win.C1TrueDBGrid.C1TrueDBGrid
+    Friend WithEvents GroupBox3 As System.Windows.Forms.GroupBox
+End Class

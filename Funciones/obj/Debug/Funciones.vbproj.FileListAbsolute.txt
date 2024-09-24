@@ -1,0 +1,151 @@
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\Mis documentos\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\Mis documentos\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\Mis documentos\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\Mis documentos\ContabilidadNEt\Funciones\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\Mis documentos\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\Mis documentos\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\Mis documentos\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\Mis documentos\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+C:\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+C:\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+C:\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+C:\ContabilidadNEt\Funciones\obj\Debug\ResolveAssemblyReference.cache
+C:\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+C:\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+C:\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+C:\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+\\192.168.1.150\FuentesOdin\Fuentes\Contabilidad\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\obj\Debug\ResolveAssemblyReference.cache
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+C:\InmobiliariaOdin\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+C:\backupOdin5\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+C:\backupOdin5\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+C:\backupOdin5\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+C:\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\ResolveAssemblyReference.cache
+C:\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+C:\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+C:\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+C:\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\bin\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\bin\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\bin\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\obj\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\obj\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\Funciones\obj\Debug\Funciones.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb

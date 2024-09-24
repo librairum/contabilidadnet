@@ -1,0 +1,166 @@
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\Mis documentos\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\ContabilidadNEt\solReporte\Reporte\obj\Debug\ResolveAssemblyReference.cache
+C:\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+C:\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+\\192.168.1.150\FuentesOdin\Fuentes\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\obj\Debug\ResolveAssemblyReference.cache
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\InmobiliariaOdin\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\ResolveAssemblyReference.cache
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\obj\Debug\Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb

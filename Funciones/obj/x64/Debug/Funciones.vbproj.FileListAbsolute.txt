@@ -1,0 +1,8 @@
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\bin\x64\Debug\Funciones.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\bin\x64\Debug\Funciones.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\bin\x64\Debug\Funciones.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\x64\Debug\Funciones.Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\x64\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\x64\Debug\Funciones.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\x64\Debug\Funciones.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\Funciones\obj\x64\Debug\Funciones.pdb

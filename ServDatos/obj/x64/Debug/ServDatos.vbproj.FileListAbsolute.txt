@@ -1,0 +1,8 @@
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\bin\x64\Debug\ServDatos.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\bin\x64\Debug\ServDatos.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\bin\x64\Debug\ServDatos.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\x64\Debug\ServDatos.Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\x64\Debug\ServDatos.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\x64\Debug\ServDatos.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\x64\Debug\ServDatos.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\ServDatos\obj\x64\Debug\ServDatos.pdb

@@ -1,0 +1,4 @@
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\x64\Debug\FuncionesC.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\x64\Debug\FuncionesC.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\x64\Debug\FuncionesC.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\x64\Debug\FuncionesC.pdb

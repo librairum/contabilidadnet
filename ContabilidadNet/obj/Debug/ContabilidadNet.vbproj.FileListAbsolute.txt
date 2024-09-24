@@ -1,0 +1,804 @@
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.config
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.manifest
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.application
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Excel.2.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Report.2.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Encriptador.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Ionic.Zip.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Excel.2.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Report.2.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarVentas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Previsualizar_SireCompras.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarCompras.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_ComprasPrincipal.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_VentasPrincipal.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibEstadoResultado.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FlujEfectivoMetIndirecto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_ResultIntegra.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_3749ctas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_44ctas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf_PLE.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf_PLE.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PDB.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentasAnual.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegComprasAnual.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherArchivoPlano.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.fmenu.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Aperturaperiodo.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Buscador.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AgenteRetenedores.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AjusxDifCambio.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AnaCtaCte.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Analisis6con9.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceComprobacion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BuenosAportadores.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CCostos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ComprobantequeModifica.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ConsultaVoucher.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoActividades.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoSubproceso.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Cuenta_Analisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DAOT.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DifCamAlmacenes.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEFF_Comp.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Gastos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GenVouCierre.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_2021.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_31Valores.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_34Intangibles.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_41remu.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_50capital.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_EGyP.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FluEfe.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_PatNeto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibrosLegales.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas_Analisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_MayorPorMeses.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Costoprocesos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_AnalisisGastos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Costos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Datos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_TipoGastos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RankingCtaCte.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Regcomprasnroformulario.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas_Donocion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoCambioConsulta.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeDocumentos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeGasto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso_Analisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_ConfigSeg.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Cierres.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Detraccion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Rep.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP_Conf.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_ActPar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Seleccionar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GeneraVoucherDist.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroBancos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroCaja.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroDiario.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Libros.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Login.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_mayoriza.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Copiar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Referencias.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegCompras.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TablasGlobales.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_tablasGlobales_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoAnalisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeCambio.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_usuarios.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_CambioPassword.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc_Det.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc_Det.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Importar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_ImportarCajas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_PagoPlanillas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_referencias.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.frmSplash.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.MDIPrincipal.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroMayor.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.licenses
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.manifest
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_Balgen.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.application
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.vbprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencionLib41.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Ventas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarVentas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Previsualizar_SireCompras.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarCompras.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_ComprasPrincipal.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_VentasPrincipal.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibEstadoResultado.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FlujEfectivoMetIndirecto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_ResultIntegra.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_3749ctas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_44ctas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf_PLE.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf_PLE.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PDB.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentasAnual.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegComprasAnual.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherArchivoPlano.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.fmenu.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Aperturaperiodo.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Buscador.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AgenteRetenedores.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AjusxDifCambio.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AnaCtaCte.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Analisis6con9.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceComprobacion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BuenosAportadores.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CCostos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ComprobantequeModifica.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ConsultaVoucher.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoActividades.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoSubproceso.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Cuenta_Analisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DAOT.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DifCamAlmacenes.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEFF_Comp.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Gastos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GenVouCierre.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_2021.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_31Valores.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_34Intangibles.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_41remu.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_50capital.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_Balgen.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_EGyP.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FluEfe.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_PatNeto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibrosLegales.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas_Analisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_MayorPorMeses.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Costoprocesos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_AnalisisGastos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Costos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Datos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_TipoGastos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RankingCtaCte.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Regcomprasnroformulario.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas_Donocion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoCambioConsulta.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeDocumentos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeGasto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso_Analisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_ConfigSeg.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Cierres.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Detraccion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Rep.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP_Conf.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_ActPar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Seleccionar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GeneraVoucherDist.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroBancos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroCaja.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroDiario.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Libros.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Login.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_mayoriza.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Copiar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Referencias.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegCompras.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TablasGlobales.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_tablasGlobales_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoAnalisis.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeCambio.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_usuarios.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_CambioPassword.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc_Det.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc_Det.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Importar.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_ImportarCajas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_PagoPlanillas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_referencias.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.frmSplash.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.MDIPrincipal.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroMayor.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.exe.licenses
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ContabilidadNet.exe.config
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ContabilidadNet.exe.manifest
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ContabilidadNet.application
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ContabilidadNet.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ContabilidadNet.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ContabilidadNet.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\C1.C1Excel.2.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\C1.C1Report.2.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Encriptador.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Funciones.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Ionic.Zip.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Reporte.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ServDatos.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Funciones.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\C1.C1Excel.2.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\C1.C1Report.2.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Reporte.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\Reporte.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ServDatos.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\ServDatos.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\bin\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.exe.manifest
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.application
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_101RegistroCosto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarLib102CostoMensual.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_103RegistroCosto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_104RegistroCosto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Compras.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.config
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.manifest
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.application
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.xml
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Encriptador.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Ionic.Zip.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbprojResolveAssemblyReference.cache
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Compras.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_104RegistroCosto.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_103RegistroCosto.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Ventas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarLib102CostoMensual.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_101RegistroCosto.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencionLib41.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarVentas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Previsualizar_SireCompras.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarCompras.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_ComprasPrincipal.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_VentasPrincipal.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibEstadoResultado.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FlujEfectivoMetIndirecto.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_ResultIntegra.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_3749ctas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_44ctas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf_PLE.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf_PLE.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PDB.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentasAnual.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegComprasAnual.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherArchivoPlano.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.fmenu.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Aperturaperiodo.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Buscador.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AgenteRetenedores.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AjusxDifCambio.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AnaCtaCte.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Analisis6con9.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceComprobacion.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BuenosAportadores.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CCostos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ComprobantequeModifica.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ConsultaVoucher.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoActividades.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoSubproceso.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Cuenta_Analisis.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DAOT.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DifCamAlmacenes.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEFF_Comp.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Gastos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GenVouCierre.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_2021.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_31Valores.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_34Intangibles.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_41remu.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_50capital.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_Balgen.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_EGyP.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FluEfe.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_PatNeto.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibrosLegales.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas_Analisis.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_MayorPorMeses.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Costoprocesos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_AnalisisGastos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Costos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Datos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_TipoGastos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RankingCtaCte.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Regcomprasnroformulario.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencion.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas_Donocion.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoCambioConsulta.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeDocumentos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeGasto.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso_Analisis.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_ConfigSeg.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Cierres.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Detraccion.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Rep.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP_Conf.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_ActPar.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Seleccionar.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GeneraVoucherDist.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroBancos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroCaja.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroDiario.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Libros.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Login.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_mayoriza.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Copiar.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Referencias.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegCompras.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TablasGlobales.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_tablasGlobales_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoAnalisis.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeCambio.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_usuarios.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_CambioPassword.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc_Det.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc_Det.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Importar.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_ImportarCajas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_PagoPlanillas.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_referencias.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.frmSplash.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.MDIPrincipal.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroMayor.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Resources.resources
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbproj.GenerateResource.Cache
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.licenses
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.manifest
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.application
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.xml
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.pdb
+D:\MineraDeisi\PROTER\Integracion\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Compras.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_104RegistroCosto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_103RegistroCosto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Ventas.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarLib102CostoMensual.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_101RegistroCosto.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencionLib41.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.config
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.manifest
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.application
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Excel.2.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Report.2.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Encriptador.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Ionic.Zip.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Excel.2.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.C1Report.2.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Compras.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_104RegistroCosto.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_103RegistroCosto.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Ventas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarLib102CostoMensual.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_101RegistroCosto.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencionLib41.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarVentas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Previsualizar_SireCompras.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarCompras.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_ComprasPrincipal.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_VentasPrincipal.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibEstadoResultado.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FlujEfectivoMetIndirecto.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_ResultIntegra.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_3749ctas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_44ctas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf_PLE.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf_PLE.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PDB.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentasAnual.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegComprasAnual.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherArchivoPlano.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.fmenu.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Aperturaperiodo.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Buscador.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AgenteRetenedores.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AjusxDifCambio.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AnaCtaCte.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Analisis6con9.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceComprobacion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BuenosAportadores.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CCostos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ComprobantequeModifica.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ConsultaVoucher.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoActividades.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoSubproceso.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Cuenta_Analisis.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DAOT.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DifCamAlmacenes.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEFF_Comp.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Gastos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GenVouCierre.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_2021.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_31Valores.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_34Intangibles.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_41remu.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_50capital.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_Balgen.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_EGyP.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FluEfe.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_PatNeto.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibrosLegales.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas_Analisis.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_MayorPorMeses.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Costoprocesos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_AnalisisGastos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Costos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Datos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_TipoGastos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RankingCtaCte.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Regcomprasnroformulario.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas_Donocion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoCambioConsulta.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeDocumentos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeGasto.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso_Analisis.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_ConfigSeg.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Cierres.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Detraccion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Rep.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP_Conf.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_ActPar.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Seleccionar.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GeneraVoucherDist.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroBancos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroCaja.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroDiario.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Libros.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Login.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_mayoriza.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Copiar.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Referencias.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegCompras.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TablasGlobales.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_tablasGlobales_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoAnalisis.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeCambio.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_usuarios.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_CambioPassword.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc_Det.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc_Det.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Importar.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_ImportarCajas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_PagoPlanillas.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_referencias.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.frmSplash.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.MDIPrincipal.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroMayor.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.licenses
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.manifest
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.application
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Compras.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_104RegistroCosto.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_103RegistroCosto.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Motivo_Ventas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarLib102CostoMensual.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_101RegistroCosto.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencionLib41.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarVentas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Previsualizar_SireCompras.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistrarCompras.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_ComprasPrincipal.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ImportarSIRE_VentasPrincipal.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibEstadoResultado.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FlujEfectivoMetIndirecto.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_ResultIntegra.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_3749ctas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_44ctas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf_PLE.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf_PLE.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PDB.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentasAnual.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegComprasAnual.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherArchivoPlano.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.fmenu.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Aperturaperiodo.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral_Conf.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Buscador.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AgenteRetenedores.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AjusxDifCambio.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AnaCtaCte.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Analisis6con9.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_AsientoTipo_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceComprobacion.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BalanceGeneral.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_BuenosAportadores.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CCostos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ComprobantequeModifica.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_ConsultaVoucher.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoActividades.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CostoSubproceso.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_CtaCte.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Cuenta_Analisis.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DAOT.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_DifCamAlmacenes.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEFF_Comp.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPPCom_Conf.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Gastos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GenVouCierre.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_2021.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_31Valores.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_34Intangibles.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_41remu.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_50capital.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_Balgen.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_EGyP.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_FluEfe.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibLeg_PatNeto.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibrosLegales.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas_Analisis.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_MayorPorMeses.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Costoprocesos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_AnalisisGastos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Costos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_Datos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Produccion_TipoGastos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RankingCtaCte.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Regcomprasnroformulario.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegistroRetencion.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas_Donocion.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoCambioConsulta.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeDocumentos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeGasto.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TrabEnCurso_Analisis.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_ConfigSeg.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Cierres.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Detraccion.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Distribucion_Rep.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_EEGGyPP_Conf.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_ActPar.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Empresa_Seleccionar.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_GeneraVoucherDist.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroBancos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroCaja.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroDiario.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Libros.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Login.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Maquinas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_mayoriza.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Periodos_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_PlaCtas_Copiar.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Referencias.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegCompras.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_RegVentas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TablasGlobales.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_tablasGlobales_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipoAnalisis.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_TipodeCambio.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_usuarios.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Usuarios_CambioPassword.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_VoucherAT_abc_Det.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Abc_Det.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_Importar.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_ImportarCajas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_PagoPlanillas.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_Voucher_referencias.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.frmSplash.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.MDIPrincipal.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Frm_LibroMayor.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.Resources.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbproj.GenerateResource.cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.licenses
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.config
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe.manifest
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.application
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.exe
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ContabilidadNet.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Encriptador.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Ionic.Zip.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Funciones.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\FuncionesC.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\Reporte.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\ServDatos.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\bin\Debug\UserControl.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.vbprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.exe.manifest
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ContabilidadNet\obj\Debug\ContabilidadNet.application

@@ -1,0 +1,262 @@
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+D:\Mis documentos\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\Mis documentos\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\Mis documentos\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\Mis documentos\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+C:\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+C:\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+C:\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+C:\ContabilidadNEt\UserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+C:\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+C:\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+C:\InmobiliariaOdin\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+C:\backupOdin5\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+C:\backupOdin5\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+C:\backupOdin5\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\ResolveAssemblyReference.cache
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+C:\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+C:\Users\sistemas\Desktop\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\bin\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\bin\Debug\UserControl.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\bin\Debug\KS.UserControl.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\UserControl.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\KS.UserControl.xml
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\UserControl\obj\Debug\UserControl.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb

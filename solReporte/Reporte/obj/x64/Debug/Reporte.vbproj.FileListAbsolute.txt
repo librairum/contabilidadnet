@@ -1,0 +1,9 @@
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\x64\Debug\Reporte.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\x64\Debug\Reporte.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\bin\x64\Debug\Reporte.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\x64\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\x64\Debug\Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\x64\Debug\Reporte.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\x64\Debug\Reporte.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\x64\Debug\Reporte.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\solReporte\Reporte\obj\x64\Debug\Reporte.pdb

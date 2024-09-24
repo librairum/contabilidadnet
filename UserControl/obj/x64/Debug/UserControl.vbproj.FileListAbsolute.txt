@@ -1,0 +1,16 @@
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\bin\x64\Debug\UserControl.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\bin\x64\Debug\UserControl.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\bin\x64\Debug\KS.UserControl.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.BarraAccion.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.Buscador.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.KsAcceso.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.KsBarra.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.ksBarraB.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.ksTextBox.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.ksBarraM.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.ueBarraLista.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\UserControl.vbproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\UserControl.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\KS.UserControl.xml
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\UserControl\obj\x64\Debug\UserControl.pdb

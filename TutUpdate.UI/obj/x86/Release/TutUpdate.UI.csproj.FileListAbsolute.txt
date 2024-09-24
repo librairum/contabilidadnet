@@ -1,0 +1,11 @@
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\bin\Release\TutUpdate.UI.exe.config
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\bin\Release\TutUpdate.UI.exe
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\bin\Release\TutUpdate.UI.pdb
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\bin\Release\Encriptador.dll
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\bin\Release\Ionic.Zip.dll
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\obj\x86\Release\TutUpdate.UI.frmActualizacion.resources
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\obj\x86\Release\TutUpdate.UI.Properties.Resources.resources
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\obj\x86\Release\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\obj\x86\Release\TutUpdate.UI.exe
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\obj\x86\Release\TutUpdate.UI.pdb
+D:\ProyectoAsistencia\Integracion\20062019\ProyectoAsistencia\Fuente\TutUpdate.UI\obj\x86\Release\TutUpdate.UI.csprojResolveAssemblyReference.cache

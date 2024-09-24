@@ -1,0 +1,9 @@
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Release\Funciones.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Release\Funciones.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\bin\Release\Funciones.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\ResolveAssemblyReference.cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.Resources.resources
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.vbproj.GenerateResource.Cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.xml
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.pdb

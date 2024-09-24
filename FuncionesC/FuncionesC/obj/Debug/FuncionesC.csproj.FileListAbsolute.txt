@@ -1,0 +1,70 @@
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\ResolveAssemblyReference.cache
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\Mis Documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\Mis documentos\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\Mis documentos\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\Mis documentos\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\Mis documentos\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+C:\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\ResolveAssemblyReference.cache
+C:\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\InmobiliariaOdin\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\InmobiliariaOdin\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\ResolveAssemblyReference.cache
+C:\InmobiliariaOdin\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\InmobiliariaOdin\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+C:\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\ResolveAssemblyReference.cache
+C:\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\Odin\contabilidad\backupOdin5\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\MineraDeisi\contabilidadNet\mastercont_ivan_131119\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb

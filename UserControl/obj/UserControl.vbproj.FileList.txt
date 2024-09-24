@@ -1,0 +1,17 @@
+bin\Debug\UserControl.dll
+bin\Debug\UserControl.pdb
+bin\Debug\KS.UserControl.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\KS.UserControl.BarraAccion.resources
+obj\Debug\KS.UserControl.Buscador.resources
+obj\Debug\KS.UserControl.KsAcceso.resources
+obj\Debug\KS.UserControl.KsBarra.resources
+obj\Debug\KS.UserControl.ksBarraB.resources
+obj\Debug\KS.UserControl.ksTextBox.resources
+obj\Debug\KS.UserControl.Resources.resources
+obj\Debug\KS.UserControl.ksBarraM.resources
+obj\Debug\KS.UserControl.ueBarraLista.resources
+obj\Debug\UserControl.vbproj.GenerateResource.Cache
+obj\Debug\UserControl.dll
+obj\Debug\KS.UserControl.xml
+obj\Debug\UserControl.pdb

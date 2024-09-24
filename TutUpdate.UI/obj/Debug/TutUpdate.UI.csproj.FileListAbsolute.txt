@@ -1,0 +1,157 @@
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\ProyectoAsistencia\Integracion\12072019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\ProyectoAsistencia\Integracion\27092019\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Contabilidad\Fuente\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Contabilidad\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\Contabilidad\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\Contabilidad\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\Contabilidad\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\Contabilidad\Fuente\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\Contabilidad\Fuente\05112019\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Smo.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+D:\Contabilidad\Fuente\12112019\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\MineraDeisi\contabilidadNet\CorrecionIvan\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\MineraDeisi\contabilidadNet\CorrecionIvan\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\MineraDeisi\contabilidadNet\CorrecionIvan\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+D:\MineraDeisi\contabilidadNet\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\Nivargo\Proyectos\ERP\Fuentes\Fuente\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+C:\Users\sistemas\Desktop\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojAssemblyReference.cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.CoreCompileInputs.cache
+C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.CopyComplete

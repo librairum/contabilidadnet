@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+UserControl
+</name>
+</assembly>
+<members>
+<member name="P:KS.UserControl.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KS.UserControl.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:KS.UserControl.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:KS.UserControl.BarraAccion.HabilitarEnabled(System.Boolean)">
+	<summary>Metodo que habilita y deshabilita el boton de mantenimiento</summary>
+	<remarks>
+		<creadopor>Edgar Huarcaya C.</creadopor>
+		<fechacreacion>18/12/2008</fechacreacion>
+		<empresa>Key Solutions S.R.L</empresa>
+		<fechamodificacion></fechamodificacion>
+	</remarks>
+</member><member name="M:KS.UserControl.BarraAccion.HabilitarVisible(System.Boolean)">
+	<summary>Metodo que visualiza y oculta el boton de mantenimiento</summary>
+	<remarks>
+		<creadopor>Edgar Huarcaya C.</creadopor>
+		<fechacreacion>18/12/2008</fechacreacion>
+		<empresa>Key Solutions S.R.L</empresa>
+		<fechamodificacion></fechamodificacion>
+	</remarks>
+</member><member name="M:KS.UserControl.BarraAccion.ValidarCampo(System.Collections.ArrayList)">
+	<summary>Metodo que valida los cambos de cajas de textos, combos, label, etc.</summary>
+	<remarks>
+		<creadopor>Edgar Huarcaya C.</creadopor>
+		<fechacreacion>20/12/2008</fechacreacion>
+		<empresa>Key Solutions S.R.L</empresa>
+		<fechamodificacion></fechamodificacion>
+	</remarks>
+</member>
+</members>
+</doc>

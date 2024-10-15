@@ -1,0 +1,10 @@
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Release\TutUpdate.UI.exe.config
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Release\TutUpdate.UI.exe
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Release\TutUpdate.UI.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Release\Ionic.Zip.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\bin\Release\Microsoft.CSharp.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Release\TutUpdate.UI.frmActualizacion.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Release\TutUpdate.UI.Properties.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Release\TutUpdate.UI.csproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Release\TutUpdate.UI.exe
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Release\TutUpdate.UI.pdb

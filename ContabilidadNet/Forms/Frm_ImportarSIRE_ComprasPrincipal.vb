@@ -54,6 +54,7 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
         Catch ex As Exception
         End Try
     End Sub
+
     Private Sub ImportarArchivo()
         'Spu_Con_Ins_ImportarSireCompras
         Try
@@ -413,13 +414,13 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
             End Using
 
             Dim xmldinamico As String = Funciones.Funciones.ConvertiraXMLdinamico(listaRegistrosCompras)
-            'procedimiento a recibir el xml 
+            'procedimiento a recibir el xml
             z = objSql.Ejecutar("Spu_Con_Ins_ImportarTemporalSireCompras", gbcodempresa,
                                 gbano,
                                 gbmes,
                                gbNameUser, xmldinamico, flag, "")
 
-            
+
 
 
             'llamas a la temporal que has importado
@@ -436,7 +437,8 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
             MessageBox.Show("ERROR:: No se pudo Importar los datos :" + ex.Message, "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
     End Sub
-    Private Sub ImportarArchivo3()
+
+    Private Sub ImportarArchivo2()
         Try
 
             Dim FilePath As String
@@ -773,109 +775,106 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
 
                     Dim filaCadena As String
                     filaCadena = valor0 + "|" + valor1 + "|" + valor2 + "|" + valor3 + "|" + valor4 + "|" + valor5 + "|" + valor6 + "|" + valor7 + "|" _
-                     + valor8 + "|" + valor9 + "|" + valor10 + "|" + valor11 + "|" + valor12 + "|" + valor13 + "|" + valor14.ToString() + "|" + valor15.ToString _
-                     + "|" + valor16.ToString + "|" + valor17.ToString + "|" + valor18.ToString + "|" + valor19.ToString + "|" + valor20.ToString + "|" _
-                     + valor21.ToString + "|" + valor22.ToString + "|" _
-                     + valor23.ToString + "|" + valor24.ToString + "|" + valor25 + "|" _
-                    + valor26.ToString + "|" + valor27 + "|" + valor28 + "|" + valor29 + "|" + valor30 + "|" + valor31 + "|" + valor32 + "|" + valor33 + "|" _
-                    + valor34 + "|" + valor35.ToString + "|" + valor36 + "|" + valor37 + "|" + valor38 + "|" + valor39 + "|" + valor40.ToString + "|" + valor41 + "|" _
-                    + valor42 + "|" + valor43 + "|" _
-                    + valor44 + "|" + valor45 + "|" + valor46 + "|" + valor47 + "|" + valor48 + "|" + valor49 + "|" + valor50 + "|" + valor51 + "|" _
-                    + valor52 + "|" _
-                    + valor53 + "|" + valor54 + "|" + valor55 + "|" + valor56 + "|" + valor57 + "|" + valor58 + "|" + valor59 + "|" _
-                    + valor60 + "|" + valor61 + "|" _
-                    + valor62 + "|" + valor63 + "|" + valor64 + "|" + valor65 + "|" + valor66 + "|" + valor67 + "|" + valor68 + "|" + valor69 + "|" + valor70 + "|" _
-                    + valor71 + "|" + valor72 + "|" + valor73 + "|" + valor74 + "|" + valor75 + "|" + valor76 + "|" + valor77 + "|" + valor78 + "|" + valor79
+                     + valor8 + "|" + valor9 + "|" + valor10 + "|" + valor11 + "|" + valor12 + "|" + valor13 + "|" + valor14.ToString() + "|" _
+                     + valor15.ToString() + "|" + valor16.ToString() + "|" + valor17.ToString() + "|" + valor18.ToString() + "|" + valor19.ToString() + "|" _
+                     + valor20.ToString() + "|" + valor21.ToString() + "|" + valor22.ToString() + "|" + valor23.ToString() + "|" + valor24.ToString() + "|" + valor25 + "|" _
+                    + valor26.ToString() + "|" + valor27 + "|" + valor28 + "|" + valor29 + "|" + valor30 + "|" + valor31 + "|" + valor32 + "|" + valor33 + "|" _
+                    + valor34 + "|" + valor35.ToString() + "|" + valor36 + "|" + valor37 + "|" + valor38 + "|" + valor39 + "|" + valor40.ToString() + "|" + valor41 + "|" _
+                    + valor42 + "|" + valor43 + "|" + valor44 + "|" + valor45 + "|" + valor46 + "|" + valor47 + "|" + valor48 + "|" + valor49 + "|" _
+                    + valor50 + "|" + valor51 + "|" + valor52 + "|" + valor53 + "|" + valor54 + "|" + valor55 + "|" + valor56 + "|" + valor57 + "|" _
+                    + valor58 + "|" + valor59 + "|" + valor60 + "|" + valor61 + "|" + valor62 + "|" + valor63 + "|" + valor64 + "|" + valor65 + "|" _
+                    + valor66 + "|" + valor67 + "|" + valor68 + "|" + valor69 + "|" + valor70 + "|" + valor71 + "|" + valor72 + "|" + valor73 + "|" _
+                    + valor74 + "|" + valor75 + "|" + valor76 + "|" + valor77 + "|" + valor78 + "|" + valor79
 
                     listaRegistrosCompras.Add(filaCadena)
 
-                    z = objSql.Ejecutar("Spu_Con_Ins_cc42SireComprasTempImportacion",
-                                        gbcodempresa,
-                                        gbano,
-                                        gbmes,
-                                       gbNameUser,
-                                    valor0,
-                                    valor1,
-                                    valor2,
-                                    valor3,
-                                    valor4,
-                                    valor5,
-                                    valor6,
-                                    valor7,
-                                    valor8,
-                                    valor9,
-                                    valor10,
-                                    valor11,
-                                    valor12,
-                                    valor13,
-                                    Decimal.Parse(valor14),
-                                    Decimal.Parse(valor15),
-                                    Decimal.Parse(valor16),
-                                    Decimal.Parse(valor17),
-                                    Decimal.Parse(valor18),
-                                    Decimal.Parse(valor19),
-                                    Decimal.Parse(valor20),
-                                    Decimal.Parse(valor21),
-                                    Decimal.Parse(valor22),
-                                    Decimal.Parse(valor23),
-                                    Decimal.Parse(valor24),
-                                    valor25,
-                                    Decimal.Parse(valor26),
-                                    valor27,
-                                    valor28,
-                                    valor29,
-                                    valor30,
-                                    valor31,
-                                    valor32,
-                                    valor33,
-                                    valor34,
-                                    Decimal.Parse(valor35),
-                                    valor36,
-                                    valor37,
-                                    valor38,
-                                    valor39,
-                                    Decimal.Parse(valor40),
-                                    valor41,
-                                    valor42,
-                                    valor43,
-                                    valor44,
-                                    valor45,
-                                    valor46,
-                                    valor47,
-                                    valor48,
-                                    valor49,
-                                    valor50,
-                                    valor51,
-                                    valor52,
-                                    valor53,
-                                    valor54,
-                                    valor55,
-                                    valor56,
-                                    valor57,
-                                    valor58,
-                                    valor59,
-                                    valor60,
-                                    valor61,
-                                    valor62,
-                                    valor63,
-                                    valor64,
-                                    valor65,
-                                    valor66,
-                                    valor67,
-                                    valor68,
-                                    valor69,
-                                    valor70,
-                                    valor71,
-                                    valor72,
-                                    valor73,
-                                    valor74,
-                                    valor75,
-                                    valor76,
-                                    valor77,
-                                    valor78,
-                                    valor79,
-                                                      flag,
-                                                      "")
+                    'z = objSql.Ejecutar("Spu_Con_Ins_cc42SireComprasTempImportacion",
+                    '                    gbcodempresa,
+                    '                    gbano,
+                    '                    gbmes,
+                    '                   gbNameUser,
+                    '                valor0,
+                    '                valor1,
+                    '                valor2,
+                    '                valor3,
+                    '                valor4,
+                    '                valor5,
+                    '                valor6,
+                    '                valor7,
+                    '                valor8,
+                    '                valor9,
+                    '                valor10,
+                    '                valor11,
+                    '                valor12,
+                    '                valor13,
+                    '                Decimal.Parse(valor14),
+                    '                Decimal.Parse(valor15),
+                    '                Decimal.Parse(valor16),
+                    '                Decimal.Parse(valor17),
+                    '                Decimal.Parse(valor18),
+                    '                Decimal.Parse(valor19),
+                    '                Decimal.Parse(valor20),
+                    '                Decimal.Parse(valor21),
+                    '                Decimal.Parse(valor22),
+                    '                Decimal.Parse(valor23),
+                    '                Decimal.Parse(valor24),
+                    '                valor25,
+                    '                Decimal.Parse(valor26),
+                    '                valor27,
+                    '                valor28,
+                    '                valor29,
+                    '                valor30,
+                    '                valor31,
+                    '                valor32,
+                    '                valor33,
+                    '                valor34,
+                    '                Decimal.Parse(valor35),
+                    '                valor36,
+                    '                valor37,
+                    '                valor38,
+                    '                valor39,
+                    '                Decimal.Parse(valor40),
+                    '                valor41,
+                    '                valor42,
+                    '                valor43,
+                    '                valor44,
+                    '                valor45,
+                    '                valor46,
+                    '                valor47,
+                    '                valor48,
+                    '                valor49,
+                    '                valor50,
+                    '                valor51,
+                    '                valor52,
+                    '                valor53,
+                    '                valor54,
+                    '                valor55,
+                    '                valor56,
+                    '                valor57,
+                    '                valor58,
+                    '                valor59,
+                    '                valor60,
+                    '                valor61,
+                    '                valor62,
+                    '                valor63,
+                    '                valor64,
+                    '                valor65,
+                    '                valor66,
+                    '                valor67,
+                    '                valor68,
+                    '                valor69,
+                    '                valor70,
+                    '                valor71,
+                    '                valor72,
+                    '                valor73,
+                    '                valor74,
+                    '                valor75,
+                    '                valor76,
+                    '                valor77,
+                    '                valor78,
+                    '                valor79,
+                    '                                  flag,
+                    '                                  "")
 
                     Cursor.Current = Cursors.WaitCursor
                 End While
@@ -886,20 +885,18 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
 
             'llamas a la temporal que has importado
             Dim flagInsertar As Integer = 0
-            Dim msgretorno As String = ""
-            Dim InsertarOriginal As Array = objSql.Ejecutar2("Spu_Con_Ins_cc43SireComprasImportacion", gbcodempresa, gbano, gbmes, gbNameUser, flagInsertar, "")
-            msgretorno = InsertarOriginal(1, 2)
-            MessageBox.Show(msgretorno, "", MessageBoxButtons.OK, MessageBoxIcon.Information)
-            TraerCabeceraSireCompras()
-            TraerImportacionCompras()
+            'Dim msgretorno As String = ""
+            'Dim InsertarOriginal As Array = objSql.Ejecutar2("Spu_Con_Ins_cc43SireComprasImportacion", gbcodempresa, gbano, gbmes, gbNameUser, flagInsertar, "")
+            'msgretorno = InsertarOriginal(1, 2)
+            'MessageBox.Show(msgretorno, "", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            'TraerCabeceraSireCompras()
+            'TraerImportacionCompras()
 
 
         Catch ex As Exception
             MessageBox.Show("ERROR:: No se pudo Importar los datos :" + ex.Message, "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
     End Sub
-
-
     Private Sub btnImportar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnImportar.Click
         Dim numeroFilas As Integer = tblconsulta.RowCount
         If numeroFilas > 0 Then
@@ -1554,9 +1551,9 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
             '' Cerrar Excel
             excelApp.Quit()
 
-            Process.Start("excel.exe", filePath)
+            Process.Start("excel.exe", """" + filePath + """")
         Catch ex As Exception
-            MessageBox.Show("ERROR :: No se pudo exportar los datos")
+            MessageBox.Show("ERROR :: No se pudo exportar los datos:" + ex.Message)
         End Try
     End Sub
 
@@ -1611,7 +1608,7 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
             '' Cerrar Excel
             excelApp.Quit()
 
-            Process.Start("excel.exe", filePath)
+            Process.Start("excel.exe", """" + filePath + """")
         Catch ex As Exception
             MessageBox.Show("ERROR :: No se pudo exportar los datos")
         End Try
@@ -1648,7 +1645,7 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
             Dim tempPath As String = Path.GetTempPath()
             Dim filePath As String = Path.Combine(tempPath, fileName)
 
-
+            'MessageBox.Show("Ruta de archivo, varialbe filePath:" + filePath)
             Dim saveFileDialog As New SaveFileDialog()
             'NOMBRE ARCHIVO
             saveFileDialog.Filter = "Excel Workbook (*.xlsx)|*.xlsx"
@@ -1659,7 +1656,7 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
 
             'Dim FilePath As String = Path.Combine(selectedFolder, NombreArchivo)
             save.SaveAs(filePath)
-
+            'MessageBox.Show("Se ejecuta el metodo SaveAs la ruta del archivo guardado es :" + filePath)
             MessageBox.Show("Datos exportados correctamente a Excel.", "Exportar a Excel", MessageBoxButtons.OK, MessageBoxIcon.Information)
             'Else
             '    Return
@@ -1667,10 +1664,10 @@ Public Class Frm_ImportarSIRE_ComprasPrincipal
 
             '' Cerrar Excel
             excelApp.Quit()
-
-            Process.Start("excel.exe", filePath)
+            'MessageBox.Show("Ruta desde se abrira el archivo excel , varialbe filePath:" + filePath)
+            Process.Start("excel.exe", """" + filePath + """")
         Catch ex As Exception
-            MessageBox.Show("ERROR :: No se pudo exportar los datos")
+            MessageBox.Show("ERROR :: No se pudo exportar los datos:" + ex.Message)
         End Try
     End Sub
 

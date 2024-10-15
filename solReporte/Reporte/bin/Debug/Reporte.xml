@@ -6,34 +6,7 @@ Reporte
 </name>
 </assembly>
 <members>
-<member name="P:My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:Ks.Com.Win.CystalReports.Net.File.VistaPrevia(System.String,System.String,System.Data.DataTable,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.ParametrosReportes},System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.FormulasReportes},enmWindowState)">
-	<summary>
- Metodo que devuelve Indicador de tipo de orden de inversion
- </summary>
-	<param name="vstrRuta">Ruta donde se encuentra el reporte</param>
-	<param name="vstrNombreReporte">Nombre de reporte</param>
-	<param name="vdtData">Data table que contiene informacion</param>
-	<param name="varrParamertersFields">Coleccion de parametros de reporte</param>
-	<param name="varrFormulasFields">Coleccion de formulas de reporte</param>
-	<param name="vintWindowState">Indica el estado de ventana</param>
-	<creadopor>Edgar Huarcaya C.</creadopor>
-	<fechacreacion>27/03/2009</fechacreacion>
-	<empresa>Key Solutions S.R.L</empresa>
-	<remarks></remarks>
-</member><member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.pValorInicial">
+<member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.pValorInicial">
 	<summary>
  Metodo que visualiza reporte
  </summary>
@@ -62,6 +35,33 @@ Reporte
 	<fechacreacion>27/03/2009</fechacreacion>
 	<empresa>Key Solutions S.R.L</empresa>
 	<remarks></remarks>
+</member><member name="M:Ks.Com.Win.CystalReports.Net.File.VistaPrevia(System.String,System.String,System.Data.DataTable,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.ParametrosReportes},System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.FormulasReportes},enmWindowState)">
+	<summary>
+ Metodo que devuelve Indicador de tipo de orden de inversion
+ </summary>
+	<param name="vstrRuta">Ruta donde se encuentra el reporte</param>
+	<param name="vstrNombreReporte">Nombre de reporte</param>
+	<param name="vdtData">Data table que contiene informacion</param>
+	<param name="varrParamertersFields">Coleccion de parametros de reporte</param>
+	<param name="varrFormulasFields">Coleccion de formulas de reporte</param>
+	<param name="vintWindowState">Indica el estado de ventana</param>
+	<creadopor>Edgar Huarcaya C.</creadopor>
+	<fechacreacion>27/03/2009</fechacreacion>
+	<empresa>Key Solutions S.R.L</empresa>
+	<remarks></remarks>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>

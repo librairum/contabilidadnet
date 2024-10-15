@@ -7,3 +7,11 @@ D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\F
 D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.dll
 D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.xml
 D:\Mis documentos\My SQL\ContabilidadNet\ContabilidadNEt\Funciones\obj\Release\Funciones.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\bin\Release\Funciones.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\bin\Release\Funciones.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\bin\Release\Funciones.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Release\Funciones.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Release\Funciones.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Release\Funciones.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Release\Funciones.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Release\Funciones.pdb

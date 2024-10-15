@@ -425,19 +425,14 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
 
 
         Catch ex As Exception
-            MessageBox.Show("ERROR:: No se pudo Importar los datos o el archivo a importar esta abierto, vuelva a intentarlo", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            MessageBox.Show("ERROR:: No se pudo Importar los datos :" + ex.Message, "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
     End Sub
 
+    
+
     Private Sub ImportarArchivo2()
         Try
-
-
-
-
-
-
-
 
             Dim FilePath As String
 
@@ -544,6 +539,7 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
             Dim valor37 As String = ""
             Dim valor38 As String = ""
             Dim valor39 As String = ""
+            Dim listaregistroas As New List(Of String)
 
             Dim posicion As Integer
 
@@ -556,6 +552,7 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
                     If isFirstRow Then
                         isFirstRow = False
                         Dim cantidadColumnas As Integer = values.Length()
+
                         If cantidadColumnas <> 40 Then
                             Dim msgFormato = "ERROR:: El archivo SIRE Ventas no tiene un formato valido. Por Favor cargue el formato correcto que contiene 40 columnas"
                             MessageBox.Show(msgFormato, "", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -719,8 +716,20 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
                     valor37 = values(posicion + 37)
                     valor38 = values(posicion + 38)
                     valor39 = values(posicion + 39)
+                    Dim filaCadena As String
+                    filaCadena = valor0 + "|" + valor1 + "|" + valor2 + "|" _
+                                + valor3 + "|" + valor4 + "|" + valor5 + "|" + valor6 + "|" + valor7 + "|" _
+                                + valor8 + "|" + valor9 + "|" + valor10 + "|" + valor11 + "|" + valor12 + "|" _
+                                + valor13 + "|" + valor14 + "|" + valor15 + "|" + valor16 + "|" + valor17 + "|" _
+                                + valor18 + "|" + valor19 + "|" + valor20 + "|" + valor21 + "|" + valor22 + "|" _
+                                + valor23 + "|" + valor24 + "|" + valor25 + "|" + valor26 + "|" + valor27 + "|" _
+                                + valor28 + "|" + valor29 + "|" + valor30 + "|" + valor31 + "|" + valor32 + "|" _
+                                + valor33 + "|" + valor34 + "|" + valor35 + "|" + valor36 + "|" + valor37 + "|" _
+                                + valor38 + "|" + valor39
 
+                    listaregistroas.Add(filaCadena)
 
+                    '
                     z = objSql.Ejecutar("Spu_Con_Ins_cc40SireVentasTempImportacion",
                                         gbcodempresa,
                                         gbano,
@@ -771,6 +780,7 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
                     Cursor.Current = Cursors.WaitCursor
                 End While
             End Using
+            'procesar el xml generado con procedimiento almacenado modificado
 
             'llamas a la temporal que has importado
             Dim flagInsertar As Integer = 0
@@ -786,6 +796,7 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
             MessageBox.Show("ERROR:: No se pudo Importar los datos o el archivo a importar esta abierto, vuelva a intentarlo", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End Try
     End Sub
+
     Private Sub btnImportar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnImportar.Click
         Dim numeroFilas As Integer = tblconsulta.RowCount
         If numeroFilas > 0 Then
@@ -1296,7 +1307,7 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
             '' Cerrar Excel
             excelApp.Quit()
 
-            Process.Start("excel.exe", filePath)
+            Process.Start("excel.exe", """" + filePath + """")
         Catch ex As Exception
             MessageBox.Show("No se pudo exportar los datos")
         End Try
@@ -1347,7 +1358,7 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
             '' Cerrar Excel
             excelApp.Quit()
 
-            Process.Start("excel.exe", filePath)
+            Process.Start("excel.exe", """" + filePath + """")
         Catch ex As Exception
             MessageBox.Show("No se pudo exportar los datos")
         End Try
@@ -1399,7 +1410,7 @@ Public Class Frm_ImportarSIRE_VentasPrincipal
             '' Cerrar Excel
             excelApp.Quit()
 
-            Process.Start("excel.exe", filePath)
+            Process.Start("excel.exe", """" + filePath + """")
         Catch ex As Exception
             MessageBox.Show("No se pudo exportar los datos")
         End Try

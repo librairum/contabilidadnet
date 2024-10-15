@@ -1,0 +1,9 @@
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Release\Reporte.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Release\Reporte.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Release\Reporte.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Release\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Release\Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Release\Reporte.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Release\Reporte.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Release\Reporte.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Release\Reporte.pdb

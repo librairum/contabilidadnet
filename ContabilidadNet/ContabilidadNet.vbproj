@@ -937,6 +937,12 @@
     <Compile Include="frmSplash.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="mayanali_it_reducido.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mayanali_it_reducido.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="MDIPrincipal.Designer.vb">
       <DependentUpon>MDIPrincipal.vb</DependentUpon>
     </Compile>
@@ -2203,6 +2209,10 @@
     <EmbeddedResource Include="frmSplash.resx">
       <DependentUpon>frmSplash.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="mayanali_it_reducido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>mayanali_it_reducido.vb</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="MDIPrincipal.resx">
       <DependentUpon>MDIPrincipal.vb</DependentUpon>
       <SubType>Designer</SubType>
@@ -2893,6 +2903,7 @@
     <None Include="Resources\money_dollar.ico" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Copia\" />
     <Folder Include="Librerias\" />
   </ItemGroup>
   <ItemGroup>

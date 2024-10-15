@@ -908,4 +908,8 @@ Public Class MDIPrincipal
             MessageBox.Show(ex.Message)
         End Try
     End Sub
+
+    Private Sub MDIPrincipal_FormClosed(ByVal sender As System.Object, ByVal e As System.Windows.Forms.FormClosedEventArgs) Handles MyBase.FormClosed
+        Application.Exit()
+    End Sub
 End Class

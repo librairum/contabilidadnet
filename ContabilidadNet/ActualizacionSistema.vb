@@ -316,6 +316,13 @@ Public Class ActualizacionSistema
         valor = LeerXml(rutaConfiguracion, "nombreZip")
         Return valor
     End Function
+    Friend Function ObtenerRutaDondeEstaInstaladoElPrograma() As String
+        Dim valor As String = ""
+        Dim rutaProgramaInstalado As String = ""
+        rutaProgramaInstalado = Path.Combine(Application.StartupPath, nombreArchivoLocal)
+        valor = LeerXml(rutaProgramaInstalado, "RutaDondeEstaInstaladoElPrograma")
+        Return valor
+    End Function
     Friend Function ObtenerRutaParaProbarActualizacion() As String
         Dim valor As String = "", RutaParaProbarActualizacion As String = ""
         RutaParaProbarActualizacion = Path.Combine(Application.StartupPath, nombreArchivoLocal)

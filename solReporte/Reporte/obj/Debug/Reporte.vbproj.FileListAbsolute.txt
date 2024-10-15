@@ -147,20 +147,9 @@ C:\Users\sistemas\Desktop\PROYECTOS\ContabilidadNEt_sistemas\solReporte\Reporte\
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
-D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\bin\Debug\Reporte.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Resources.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb

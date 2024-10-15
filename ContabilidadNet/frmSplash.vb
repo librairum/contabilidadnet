@@ -102,7 +102,8 @@ Public Class frmSplash
                 nombreCarpetaModulo As String = "", nombreEjecutableModulo As String = "",
                 nombreConfig As String = "", versionprograma As String = "",
                 RutaParaProbarActualizacion As String = "",
-                modoDesarrollo As String = ""
+                modoDesarrollo As String = "",
+                RutaDondeEstaINstaladoElPrograma As String = ""
             Dim nombreCarpetaParche As String = "", nombreScript As String = "", nombreZip As String = ""
             nombreEjecutable = configuracion.ObtenerNombreActualizador()
             rutaEjecutable = Path.Combine(Application.StartupPath, nombreEjecutable)
@@ -123,7 +124,8 @@ Public Class frmSplash
             nombreEjecutableModulo = System.Reflection.Assembly.GetExecutingAssembly().GetName().Name & ".exe"
             nombreConfig = System.Reflection.Assembly.GetExecutingAssembly().GetName().Name & ".exe.config"
             versionprograma = configuracion.ObtenerVersion()
-            RutaParaProbarActualizacion = configuracion.ObtenerRutaParaProbarActualizacion().Replace(" "c, "§"c)
+            'RutaParaProbarActualizacion = configuracion.ObtenerRutaParaProbarActualizacion().Replace(" "c, "§"c)
+            RutaDondeEstaINstaladoElPrograma = configuracion.ObtenerRutaDondeEstaInstaladoElPrograma().Replace(" "c, "§"c)
             nombreCarpetaParche = configuracion.ObtenerNombreCarpetaActualizacion()
             nombreScript = configuracion.ObtenerNombreScript()
             nombreZip = configuracion.ObtenerNombreZip()

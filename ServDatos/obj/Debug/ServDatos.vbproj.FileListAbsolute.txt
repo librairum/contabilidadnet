@@ -142,11 +142,3 @@ D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\bin\Debug\ServDatos.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.Resources.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.vbproj.GenerateResource.Cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\ServDatos\obj\Debug\ServDatos.pdb

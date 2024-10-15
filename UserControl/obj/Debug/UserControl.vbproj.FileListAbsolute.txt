@@ -244,19 +244,3 @@ D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\UserCon
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\bin\Debug\UserControl.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\bin\Debug\UserControl.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\bin\Debug\KS.UserControl.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.BarraAccion.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Buscador.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsAcceso.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.KsBarra.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraB.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksTextBox.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.Resources.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ksBarraM.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.ueBarraLista.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\UserControl.vbproj.GenerateResource.Cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\UserControl.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\KS.UserControl.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\UserControl\obj\Debug\UserControl.pdb

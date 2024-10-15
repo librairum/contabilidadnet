@@ -30,7 +30,7 @@ Partial Class Frm_ImportarSIRE_ComprasPrincipal
         Me.Label3 = New System.Windows.Forms.Label()
         Me.btnhelp_0 = New System.Windows.Forms.Button()
         Me.lblhelp_0 = New System.Windows.Forms.Label()
-        Me.txtLibro = New KS.UserControl.ksTextBox()
+        Me.txtLibro = New Ks.UserControl.ksTextBox()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
@@ -75,7 +75,7 @@ Partial Class Frm_ImportarSIRE_ComprasPrincipal
         Me.Panel1.Dock = System.Windows.Forms.DockStyle.Top
         Me.Panel1.Location = New System.Drawing.Point(0, 0)
         Me.Panel1.Name = "Panel1"
-        Me.Panel1.Size = New System.Drawing.Size(1249, 30)
+        Me.Panel1.Size = New System.Drawing.Size(1306, 30)
         Me.Panel1.TabIndex = 145
         '
         'btnImportar
@@ -96,7 +96,7 @@ Partial Class Frm_ImportarSIRE_ComprasPrincipal
         Me.Panel3.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.Panel3.Location = New System.Drawing.Point(0, 578)
         Me.Panel3.Name = "Panel3"
-        Me.Panel3.Size = New System.Drawing.Size(1249, 26)
+        Me.Panel3.Size = New System.Drawing.Size(1306, 26)
         Me.Panel3.TabIndex = 147
         '
         'Label4
@@ -152,7 +152,7 @@ Partial Class Frm_ImportarSIRE_ComprasPrincipal
         Me.txtLibro.Size = New System.Drawing.Size(36, 20)
         Me.txtLibro.TabIndex = 176
         Me.txtLibro.Tabulado = True
-        Me.txtLibro.ValorAceptado = KS.UserControl.ValorPermitido.enmVTodos
+        Me.txtLibro.ValorAceptado = Ks.UserControl.ValorPermitido.enmVTodos
         '
         'Label5
         '
@@ -508,7 +508,7 @@ Partial Class Frm_ImportarSIRE_ComprasPrincipal
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoSize = True
-        Me.ClientSize = New System.Drawing.Size(1249, 604)
+        Me.ClientSize = New System.Drawing.Size(1306, 604)
         Me.Controls.Add(Me.GroupBox3)
         Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label9)

@@ -1,0 +1,8 @@
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\bin\Release\ServDatos.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\bin\Release\ServDatos.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\bin\Release\ServDatos.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Release\ServDatos.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Release\ServDatos.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Release\ServDatos.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Release\ServDatos.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\ServDatos\obj\Release\ServDatos.pdb

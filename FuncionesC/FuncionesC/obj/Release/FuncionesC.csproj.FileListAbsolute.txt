@@ -1,0 +1,4 @@
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\bin\Release\FuncionesC.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\bin\Release\FuncionesC.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\obj\Release\FuncionesC.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\FuncionesC\FuncionesC\obj\Release\FuncionesC.pdb

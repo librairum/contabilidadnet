@@ -136,22 +136,3 @@ D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpd
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Smo.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.Dmf.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojAssemblyReference.cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.CoreCompileInputs.cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.CopyComplete

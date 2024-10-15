@@ -141,11 +141,3 @@ D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\bin\Debug\Funciones.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\bin\Debug\Funciones.pdb
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\bin\Debug\Funciones.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.Resources.resources
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.cache
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.dll
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.xml
-C:\Users\ivan\Documents\William nivargo\ContabilidadNEt\Funciones\obj\Debug\Funciones.pdb

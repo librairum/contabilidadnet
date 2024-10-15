@@ -6,7 +6,36 @@ Reporte
 </name>
 </assembly>
 <members>
-<member name="M:Ks.Com.Win.CystalReports.Net.File.VistaPrevia(System.String,System.String,System.Data.DataTable,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.ParametrosReportes},System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.FormulasReportes},enmWindowState)">
+<member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.pValorInicial">
+	<summary>
+ Metodo que visualiza reporte
+ </summary>
+	<creadopor>William Rodriguez C.</creadopor>
+	<fechacreacion>27/03/2009</fechacreacion>
+	<empresa>Minera  Colquisir S.A</empresa>
+	<remarks></remarks>
+</member><member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.SetCurrentValuesForFormulaField(CrystalDecisions.CrystalReports.Engine.ReportDocument,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.FormulasReportes})">
+	<summary>
+ Metodo que asigna valor de formulas
+ </summary>
+	<param name="rep">Objeto ReportDocument</param>
+	<param name="myArrayList">Coleccione de Formula</param>
+	<creadopor>Edgar Huarcaya C.</creadopor>
+	<fechacreacion>27/03/2009</fechacreacion>
+	<empresa>Key Solutions S.R.L</empresa>
+	<remarks></remarks>
+</member><member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.SetCurrentValuesForParameterField(CrystalDecisions.CrystalReports.Engine.ReportDocument,CrystalDecisions.Shared.ParameterFields,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.ParametrosReportes})">
+	<summary>
+ Metodo que asigna valor de parametros
+ </summary>
+	<param name="rep">Objeto ReportDocument</param>
+	<param name="myParameterFields"></param>
+	<param name="myArrayList">Coleccione de Formula</param>
+	<creadopor>William Rodriguez  C.</creadopor>
+	<fechacreacion>27/03/2009</fechacreacion>
+	<empresa>Key Solutions S.R.L</empresa>
+	<remarks></remarks>
+</member><member name="M:Ks.Com.Win.CystalReports.Net.File.VistaPrevia(System.String,System.String,System.Data.DataTable,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.ParametrosReportes},System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.FormulasReportes},enmWindowState)">
 	<summary>
  Metodo que devuelve Indicador de tipo de orden de inversion
  </summary>
@@ -33,35 +62,6 @@ Reporte
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.pValorInicial">
-	<summary>
- Metodo que visualiza reporte
- </summary>
-	<creadopor>Edgar Huarcaya C.</creadopor>
-	<fechacreacion>27/03/2009</fechacreacion>
-	<empresa>Key Solutions S.R.L</empresa>
-	<remarks></remarks>
-</member><member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.SetCurrentValuesForFormulaField(CrystalDecisions.CrystalReports.Engine.ReportDocument,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.FormulasReportes})">
-	<summary>
- Metodo que asigna valor de formulas
- </summary>
-	<param name="rep">Objeto ReportDocument</param>
-	<param name="myArrayList">Coleccione de Formula</param>
-	<creadopor>Edgar Huarcaya C.</creadopor>
-	<fechacreacion>27/03/2009</fechacreacion>
-	<empresa>Key Solutions S.R.L</empresa>
-	<remarks></remarks>
-</member><member name="M:Ks.Com.Win.CystalReports.Net.Forms.FormVisor.SetCurrentValuesForParameterField(CrystalDecisions.CrystalReports.Engine.ReportDocument,CrystalDecisions.Shared.ParameterFields,System.Collections.Generic.List{Ks.Com.Win.CystalReports.Net.ParametrosReportes})">
-	<summary>
- Metodo que asigna valor de parametros
- </summary>
-	<param name="rep">Objeto ReportDocument</param>
-	<param name="myParameterFields"></param>
-	<param name="myArrayList">Coleccione de Formula</param>
-	<creadopor>Edgar Huarcaya C.</creadopor>
-	<fechacreacion>27/03/2009</fechacreacion>
-	<empresa>Key Solutions S.R.L</empresa>
-	<remarks></remarks>
 </member>
 </members>
 </doc>

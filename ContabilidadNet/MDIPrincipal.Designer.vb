@@ -243,7 +243,7 @@ Partial Class MDIPrincipal
         Me.ToolStrip1.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Flow
         Me.ToolStrip1.Location = New System.Drawing.Point(458, 26)
         Me.ToolStrip1.Name = "ToolStrip1"
-        Me.ToolStrip1.Size = New System.Drawing.Size(165, 23)
+        Me.ToolStrip1.Size = New System.Drawing.Size(134, 23)
         Me.ToolStrip1.TabIndex = 205
         Me.ToolStrip1.Text = "ToolStrip1"
         '

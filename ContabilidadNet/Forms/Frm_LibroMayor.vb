@@ -215,9 +215,11 @@ Public Class Frm_LibroMayor
                     perixopcion = fechaini + " a " + fechafin
                 ElseIf optTipoImpre_2.Checked = True Then
                     flagrep = "3"
+
                     fechaini = Funciones.Funciones.derecha(cboPerini.Text, 2)
                     fechafin = Funciones.Funciones.derecha(cboPerfin.Text, 2)
-                    perixopcion = fechaini + " a " + fechafin
+                    'perixopcion = fechaini + " a " + fechafin                    
+                    perixopcion = cboPerini.Text + " a " + cboPerfin.Text
                 End If
 
                 ds = objSql.TraerDataSet("sp_Con_Rep_LibroMayorAnalitico", gbcodempresa, gbano, mesdemayor, gbmoneda, gbNameUser, flagrep, fechaini, fechafin).Copy()
@@ -339,16 +341,20 @@ Public Class Frm_LibroMayor
                     perixopcion = fechaini + " a " + fechafin
                 ElseIf optTipoImpre_2.Checked = True Then
                     flagrep = "3"
+                    'comanteado 01/10/2024
                     fechaini = Funciones.Funciones.derecha(cboPerini.SelectedValue.ToString, 2)
                     fechafin = Funciones.Funciones.derecha(cboPerfin.SelectedValue.ToString, 2)
-                    perixopcion = fechaini + " a " + fechafin
+                    'perixopcion = fechaini + " a " + fechafin                    
+                    perixopcion = cboPerini.Text + " a " + cboPerfin.Text
                 End If
 
                 'Parametros
                 ds = objSql.TraerDataSet("sp_Con_Rep_LibroMayorAnalitico", gbcodempresa, gbano, mesdemayor, gbmoneda, gbNameUser, flagrep, fechaini, fechafin).Copy()
                 'Formulas de reporte
                 arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("NombreEmpresa", gbNomEmpresa))
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("Periodo", perixopcion))
+                'arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("Periodo", perixopcion))
+
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("Periodo", perixopcion))
                 arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("Contabilidad", Funciones.Funciones.DescripcionMoneda(gbmoneda)))
                 arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("RucEmpresa", gbRucEmpresa))
                 arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("tipo", flagrep))

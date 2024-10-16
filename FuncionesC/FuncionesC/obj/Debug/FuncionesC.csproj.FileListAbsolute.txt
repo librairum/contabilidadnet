@@ -68,3 +68,7 @@ C:\Users\ivan\Documents\William_nivargo\contabilidadnet\FuncionesC\FuncionesC\bi
 C:\Users\ivan\Documents\William_nivargo\contabilidadnet\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
 C:\Users\ivan\Documents\William_nivargo\contabilidadnet\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
 C:\Users\ivan\Documents\William_nivargo\contabilidadnet\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\FuncionesC\FuncionesC\bin\Debug\FuncionesC.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\FuncionesC\FuncionesC\bin\Debug\FuncionesC.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\FuncionesC\FuncionesC\obj\Debug\FuncionesC.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\FuncionesC\FuncionesC\obj\Debug\FuncionesC.pdb

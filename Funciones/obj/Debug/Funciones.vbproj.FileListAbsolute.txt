@@ -149,3 +149,11 @@ C:\Users\ivan\Documents\William_nivargo\contabilidadnet\Funciones\obj\Debug\Func
 C:\Users\ivan\Documents\William_nivargo\contabilidadnet\Funciones\obj\Debug\Funciones.dll
 C:\Users\ivan\Documents\William_nivargo\contabilidadnet\Funciones\obj\Debug\Funciones.xml
 C:\Users\ivan\Documents\William_nivargo\contabilidadnet\Funciones\obj\Debug\Funciones.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\bin\Debug\Funciones.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\bin\Debug\Funciones.pdb
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\bin\Debug\Funciones.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\obj\Debug\Funciones.Resources.resources
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\obj\Debug\Funciones.vbproj.GenerateResource.Cache
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\obj\Debug\Funciones.dll
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\obj\Debug\Funciones.xml
+D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\Funciones\obj\Debug\Funciones.pdb

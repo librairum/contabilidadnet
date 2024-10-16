@@ -546,5 +546,6 @@ Public Class Frm_LibroMayor
     Private Sub btn_verReporteReducido_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_verReporteReducido.Click
         esReporteReducido = True
         Me.imprimir_verant("P")
+        esReporteReducido = False
     End Sub
 End Class

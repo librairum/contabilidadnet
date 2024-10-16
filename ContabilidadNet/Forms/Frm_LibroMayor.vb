@@ -319,12 +319,21 @@ Public Class Frm_LibroMayor
                 End If
 
                 If optTipoImpre_2.Checked = True Then
-                    nombredereporte = "MayorAnali_Periodos.rpt"
+                    If esReporteReducido = False Then
+                        nombredereporte = "MayorAnali_Periodos.rpt"
+                    Else
+                        nombredereporte = "MayorAnali_Periodos_reducido.rpt"
+                    End If
                 Else
                     If flagimpresioncarta = "CARTA" Then
                         nombredereporte = "mayanali_it_carta.rpt"
                     Else
-                        nombredereporte = If(gbTipoImpresora = "I", "mayanali_it.rpt", "mayanali.rpt")
+                        If esReporteReducido = False Then
+                            nombredereporte = If(gbTipoImpresora = "I", "mayanali_it.rpt", "mayanali.rpt")
+                        Else
+                            nombredereporte = If(gbTipoImpresora = "I", "mayanali_it_reducido.rpt", "mayanali.rpt")
+                        End If
+
                     End If
                 End If
 
@@ -351,13 +360,13 @@ Public Class Frm_LibroMayor
                 'Parametros
                 ds = objSql.TraerDataSet("sp_Con_Rep_LibroMayorAnalitico", gbcodempresa, gbano, mesdemayor, gbmoneda, gbNameUser, flagrep, fechaini, fechafin).Copy()
                 'Formulas de reporte
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("NombreEmpresa", gbNomEmpresa))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("NombreEmpresa", gbNomEmpresa))
                 'arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("Periodo", perixopcion))
 
                 arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("Periodo", perixopcion))
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("Contabilidad", Funciones.Funciones.DescripcionMoneda(gbmoneda)))
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("RucEmpresa", gbRucEmpresa))
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("tipo", flagrep))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("Contabilidad", Funciones.Funciones.DescripcionMoneda(gbmoneda)))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("RucEmpresa", gbRucEmpresa))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("tipo", flagrep))
 
             Else
                 '=========Inserto Filas seleecionadas
@@ -384,10 +393,10 @@ Public Class Frm_LibroMayor
                 'Sp que trae datoas del reporte
                 ds = objSql.TraerDataSet("sp_Con_Rep_LibroMayorGeneral", gbcodempresa, gbano, mesdemayor, gbmoneda, gbNameUser).Copy()
                 'Formulas de reporte
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("NombreEmpresa", gbNomEmpresa))
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("Periodo", cboperiodos.Text))
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("Contabilidad", Funciones.Funciones.DescripcionMoneda(gbmoneda)))
-                arrFormulas.Add(New KS.Com.Win.CystalReports.Net.FormulasReportes("RucEmpresa", gbRucEmpresa))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("NombreEmpresa", gbNomEmpresa))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("Periodo", cboperiodos.Text))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("Contabilidad", Funciones.Funciones.DescripcionMoneda(gbmoneda)))
+                arrFormulas.Add(New Ks.Com.Win.CystalReports.Net.FormulasReportes("RucEmpresa", gbRucEmpresa))
 
             End If
             If flagimpresion = "P" Then
@@ -532,5 +541,10 @@ Public Class Frm_LibroMayor
 
     Private Sub btnexportar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnexportar.Click
         Me.ExportarArchivo()
+    End Sub
+    Dim esReporteReducido As Boolean = False
+    Private Sub btn_verReporteReducido_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_verReporteReducido.Click
+        esReporteReducido = True
+        Me.imprimir_verant("P")
     End Sub
 End Class

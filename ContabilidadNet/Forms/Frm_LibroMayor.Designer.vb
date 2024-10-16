@@ -24,6 +24,7 @@ Partial Class Frm_LibroMayor
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Frm_LibroMayor))
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.btn_verReporteReducido = New System.Windows.Forms.Button()
         Me.btnexportar = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.btnimprimir = New System.Windows.Forms.Button()
@@ -79,6 +80,7 @@ Partial Class Frm_LibroMayor
         Me.Panel1.AutoSize = True
         Me.Panel1.BackColor = System.Drawing.SystemColors.WindowFrame
         Me.Panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel1.Controls.Add(Me.btn_verReporteReducido)
         Me.Panel1.Controls.Add(Me.btnexportar)
         Me.Panel1.Controls.Add(Me.Button1)
         Me.Panel1.Controls.Add(Me.btnimprimir)
@@ -89,6 +91,15 @@ Partial Class Frm_LibroMayor
         Me.Panel1.Name = "Panel1"
         Me.Panel1.Size = New System.Drawing.Size(735, 31)
         Me.Panel1.TabIndex = 4
+        '
+        'btn_verReporteReducido
+        '
+        Me.btn_verReporteReducido.Image = CType(resources.GetObject("btn_verReporteReducido.Image"), System.Drawing.Image)
+        Me.btn_verReporteReducido.Location = New System.Drawing.Point(358, 0)
+        Me.btn_verReporteReducido.Name = "btn_verReporteReducido"
+        Me.btn_verReporteReducido.Size = New System.Drawing.Size(24, 24)
+        Me.btn_verReporteReducido.TabIndex = 26
+        Me.btn_verReporteReducido.UseVisualStyleBackColor = True
         '
         'btnexportar
         '
@@ -142,7 +153,7 @@ Partial Class Frm_LibroMayor
         Me.tabOpciones.Location = New System.Drawing.Point(0, 40)
         Me.tabOpciones.Name = "tabOpciones"
         Me.tabOpciones.SelectedIndex = 0
-        Me.tabOpciones.Size = New System.Drawing.Size(726, 290)
+        Me.tabOpciones.Size = New System.Drawing.Size(726, 291)
         Me.tabOpciones.TabIndex = 5
         '
         'TabPage1
@@ -154,7 +165,7 @@ Partial Class Frm_LibroMayor
         Me.TabPage1.Location = New System.Drawing.Point(4, 22)
         Me.TabPage1.Name = "TabPage1"
         Me.TabPage1.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage1.Size = New System.Drawing.Size(718, 264)
+        Me.TabPage1.Size = New System.Drawing.Size(718, 265)
         Me.TabPage1.TabIndex = 0
         Me.TabPage1.Text = "Analitico"
         Me.TabPage1.UseVisualStyleBackColor = True
@@ -185,7 +196,7 @@ Partial Class Frm_LibroMayor
         Me.tblconsulta.PreviewInfo.Size = New System.Drawing.Size(0, 0)
         Me.tblconsulta.PreviewInfo.ZoomFactor = 75.0R
         Me.tblconsulta.PrintInfo.PageSettings = CType(resources.GetObject("tblconsulta.PrintInfo.PageSettings"), System.Drawing.Printing.PageSettings)
-        Me.tblconsulta.Size = New System.Drawing.Size(558, 234)
+        Me.tblconsulta.Size = New System.Drawing.Size(558, 252)
         Me.tblconsulta.TabIndex = 14
         Me.tblconsulta.TabStop = False
         Me.tblconsulta.Text = "C1TrueDBGrid1"
@@ -204,7 +215,7 @@ Partial Class Frm_LibroMayor
         Me.GroupBox2.Controls.Add(Me.optTipoImpre_1)
         Me.GroupBox2.Location = New System.Drawing.Point(6, 70)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(152, 174)
+        Me.GroupBox2.Size = New System.Drawing.Size(152, 188)
         Me.GroupBox2.TabIndex = 13
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Rango de Impresión"
@@ -213,7 +224,7 @@ Partial Class Frm_LibroMayor
         '
         Me.cboperiodos.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cboperiodos.FormattingEnabled = True
-        Me.cboperiodos.Location = New System.Drawing.Point(18, 30)
+        Me.cboperiodos.Location = New System.Drawing.Point(18, 35)
         Me.cboperiodos.Name = "cboperiodos"
         Me.cboperiodos.Size = New System.Drawing.Size(124, 21)
         Me.cboperiodos.TabIndex = 30
@@ -221,14 +232,14 @@ Partial Class Frm_LibroMayor
         'cboPerfin
         '
         Me.cboPerfin.FormattingEnabled = True
-        Me.cboPerfin.Location = New System.Drawing.Point(20, 92)
+        Me.cboPerfin.Location = New System.Drawing.Point(20, 97)
         Me.cboPerfin.Name = "cboPerfin"
         Me.cboPerfin.Size = New System.Drawing.Size(121, 21)
         Me.cboPerfin.TabIndex = 13
         '
         'mskFecFin
         '
-        Me.mskFecFin.Location = New System.Drawing.Point(50, 150)
+        Me.mskFecFin.Location = New System.Drawing.Point(50, 162)
         Me.mskFecFin.Mask = "00/00/0000"
         Me.mskFecFin.Name = "mskFecFin"
         Me.mskFecFin.Size = New System.Drawing.Size(86, 20)
@@ -236,7 +247,7 @@ Partial Class Frm_LibroMayor
         '
         'mskFecIni
         '
-        Me.mskFecIni.Location = New System.Drawing.Point(50, 128)
+        Me.mskFecIni.Location = New System.Drawing.Point(50, 140)
         Me.mskFecIni.Mask = "00/00/0000"
         Me.mskFecIni.Name = "mskFecIni"
         Me.mskFecIni.Size = New System.Drawing.Size(82, 20)
@@ -245,7 +256,7 @@ Partial Class Frm_LibroMayor
         'cboPerini
         '
         Me.cboPerini.FormattingEnabled = True
-        Me.cboPerini.Location = New System.Drawing.Point(20, 70)
+        Me.cboPerini.Location = New System.Drawing.Point(20, 75)
         Me.cboPerini.Name = "cboPerini"
         Me.cboPerini.Size = New System.Drawing.Size(121, 21)
         Me.cboPerini.TabIndex = 10
@@ -254,7 +265,7 @@ Partial Class Frm_LibroMayor
         '
         Me.optTipoImpre_0.AutoSize = True
         Me.optTipoImpre_0.Checked = True
-        Me.optTipoImpre_0.Location = New System.Drawing.Point(4, 14)
+        Me.optTipoImpre_0.Location = New System.Drawing.Point(4, 19)
         Me.optTipoImpre_0.Name = "optTipoImpre_0"
         Me.optTipoImpre_0.Size = New System.Drawing.Size(79, 17)
         Me.optTipoImpre_0.TabIndex = 8
@@ -265,7 +276,7 @@ Partial Class Frm_LibroMayor
         'optTipoImpre_2
         '
         Me.optTipoImpre_2.AutoSize = True
-        Me.optTipoImpre_2.Location = New System.Drawing.Point(4, 54)
+        Me.optTipoImpre_2.Location = New System.Drawing.Point(4, 59)
         Me.optTipoImpre_2.Name = "optTipoImpre_2"
         Me.optTipoImpre_2.Size = New System.Drawing.Size(124, 17)
         Me.optTipoImpre_2.TabIndex = 7
@@ -275,7 +286,7 @@ Partial Class Frm_LibroMayor
         'optTipoImpre_1
         '
         Me.optTipoImpre_1.AutoSize = True
-        Me.optTipoImpre_1.Location = New System.Drawing.Point(6, 114)
+        Me.optTipoImpre_1.Location = New System.Drawing.Point(6, 121)
         Me.optTipoImpre_1.Name = "optTipoImpre_1"
         Me.optTipoImpre_1.Size = New System.Drawing.Size(76, 17)
         Me.optTipoImpre_1.TabIndex = 6
@@ -335,7 +346,7 @@ Partial Class Frm_LibroMayor
         Me.TabPage2.Location = New System.Drawing.Point(4, 22)
         Me.TabPage2.Name = "TabPage2"
         Me.TabPage2.Padding = New System.Windows.Forms.Padding(3)
-        Me.TabPage2.Size = New System.Drawing.Size(718, 264)
+        Me.TabPage2.Size = New System.Drawing.Size(718, 310)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "General"
         Me.TabPage2.UseVisualStyleBackColor = True
@@ -392,7 +403,7 @@ Partial Class Frm_LibroMayor
         Me.Label1.Size = New System.Drawing.Size(118, 50)
         Me.Label1.TabIndex = 8
         Me.Label1.Text = "El Reporte de Saldos Trabaja con cuentas >= a 7 digitos y que su septimo digito t" & _
-    "iene que ser impar;y es basicamente para la 915,916,917"
+            "iene que ser impar;y es basicamente para la 915,916,917"
         '
         'rbtTipRep_1
         '
@@ -515,7 +526,7 @@ Partial Class Frm_LibroMayor
         '
         Me.Panel3.BackColor = System.Drawing.SystemColors.WindowFrame
         Me.Panel3.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.Panel3.Location = New System.Drawing.Point(0, 331)
+        Me.Panel3.Location = New System.Drawing.Point(0, 333)
         Me.Panel3.Name = "Panel3"
         Me.Panel3.Size = New System.Drawing.Size(735, 28)
         Me.Panel3.TabIndex = 201
@@ -524,7 +535,7 @@ Partial Class Frm_LibroMayor
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(735, 359)
+        Me.ClientSize = New System.Drawing.Size(735, 361)
         Me.Controls.Add(Me.Panel3)
         Me.Controls.Add(Me.tabOpciones)
         Me.Controls.Add(Me.Panel1)
@@ -587,4 +598,5 @@ Partial Class Frm_LibroMayor
     Friend WithEvents btnseleccionartodo_1 As System.Windows.Forms.Button
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents btnexportar As System.Windows.Forms.Button
+    Friend WithEvents btn_verReporteReducido As System.Windows.Forms.Button
 End Class

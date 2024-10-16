@@ -136,3 +136,14 @@ D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpd
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe.config
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\bin\Debug\TutUpdate.UI.exe
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\bin\Debug\TutUpdate.UI.pdb
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\bin\Debug\Ionic.Zip.dll
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\obj\Debug\TutUpdate.UI.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\obj\Debug\TutUpdate.UI.frmActualizacion.resources
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\obj\Debug\TutUpdate.UI.Properties.Resources.resources
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\obj\Debug\TutUpdate.UI.csproj.GenerateResource.Cache
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\obj\Debug\TutUpdate.UI.exe
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\TutUpdate.UI\obj\Debug\TutUpdate.UI.pdb

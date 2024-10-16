@@ -237,14 +237,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ContabilidadNet.exe" size="9326592">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ContabilidadNet.exe" size="9354240">
       <assemblyIdentity name="ContabilidadNet" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>PiRHgO8FTznJ2JilZbw+QocCaRI=</dsig:DigestValue>
+        <dsig:DigestValue>qSW8mJljDQypd0agzfLEFIw1Z8c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -268,7 +268,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>KGx27UshDbE1PNdqzpmvqXPB8iQ=</dsig:DigestValue>
+        <dsig:DigestValue>BSRURUUTY8bKQ1oqyj5oPCQ0WEA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -280,7 +280,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>n4xBLXchUGwwiWH7NWmR5lGr5QY=</dsig:DigestValue>
+        <dsig:DigestValue>R5Vg3HG9+RNLGOtti4Mpdn94Bww=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -305,18 +305,6 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
         <dsig:DigestValue>mDQ+pNYuVTQKqiVekjxJ2O75EZQ=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.SqlServer.Dmf.resources.dll" size="38752">
-      <assemblyIdentity name="Microsoft.SqlServer.Dmf.resources" version="10.0.0.0" publicKeyToken="89845DCD8080CC91" language="es" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cbI9mhvjbKvADbef14D+tEZa/lE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -364,7 +352,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yQi0kcxuV6qAFBFl7SuE7rhTb8c=</dsig:DigestValue>
+        <dsig:DigestValue>8sD8ZVdjfdne0SPwagBI1LWpSVw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -376,7 +364,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>OAVjHC5GPAOGCNyT8tntu2Jc3eE=</dsig:DigestValue>
+        <dsig:DigestValue>StPLOU2DLabWN/VYaiKTZPuaijw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -388,7 +376,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ZSPx8QZeXiDvi347SSNQeyQ3mf8=</dsig:DigestValue>
+        <dsig:DigestValue>5FX13qsPPDueKBgc9LEjAMmfnao=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -404,13 +392,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ContabilidadNet.exe.config" size="6151">
+  <file name="ContabilidadNet.exe.config" size="6135">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>/H7eXLevnrxgN+kkLP/l1Vikj+E=</dsig:DigestValue>
+      <dsig:DigestValue>uhXU4vaX5LoStdMhm84RPsVNpoM=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

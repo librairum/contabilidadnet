@@ -937,12 +937,6 @@
     <Compile Include="frmSplash.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="mayanali_it_reducido.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>mayanali_it_reducido.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="MDIPrincipal.Designer.vb">
       <DependentUpon>MDIPrincipal.vb</DependentUpon>
     </Compile>
@@ -1087,6 +1081,18 @@
       <AutoGen>True</AutoGen>
       <SubType>Component</SubType>
       <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes\mayanali_it_reducido.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>mayanali_it_reducido.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\MayorAnali_Periodos_reducido.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MayorAnali_Periodos_reducido.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="Reportes\Rep_LibLegCosto104.vb">
       <DependentUpon>Rep_LibLegCosto104.rpt</DependentUpon>
@@ -2209,10 +2215,6 @@
     <EmbeddedResource Include="frmSplash.resx">
       <DependentUpon>frmSplash.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="mayanali_it_reducido.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>mayanali_it_reducido.vb</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="MDIPrincipal.resx">
       <DependentUpon>MDIPrincipal.vb</DependentUpon>
       <SubType>Designer</SubType>
@@ -2303,6 +2305,14 @@
     <EmbeddedResource Include="Reportes\balance_PLE.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>balance_PLE.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\mayanali_it_reducido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>mayanali_it_reducido.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\MayorAnali_Periodos_reducido.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>MayorAnali_Periodos_reducido.vb</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Reportes\Rep_LibLegCosto104.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
@@ -2903,8 +2913,8 @@
     <None Include="Resources\money_dollar.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Copia\" />
     <Folder Include="Librerias\" />
+    <Folder Include="Reportes\libromayorreducido\" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />

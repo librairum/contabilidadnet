@@ -153,3 +153,13 @@ D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.xml
 D:\PROYECTOS_29082024\CONTABILIDAD\ContabilidadNEt\solReporte\Reporte\obj\Debug\Reporte.pdb
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\bin\Debug\Reporte.dll
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\bin\Debug\Reporte.pdb
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\bin\Debug\Reporte.xml
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\Debug\Resources.resources
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\Debug\Reporte.dll
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\Debug\Reporte.xml
+C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\Debug\Reporte.pdb

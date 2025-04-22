@@ -161,7 +161,7 @@ Public Class frmSplash
 
         Catch ex As Exception
             MessageBox.Show("Error al limpiar archivos descargos : " & ex.Message)
-            Application.[Exit]()
+            'Application.[Exit]()
         End Try
 
         Cursor.Current = Cursors.[Default]
@@ -217,7 +217,7 @@ Public Class frmSplash
         Catch ex As Exception
             'Util.ShowError("Error [RunWorkCompleted]: " & ex.Message)
             MessageBox.Show("Error [RunWorkCompleted]: " & ex.Message)
-            Application.[Exit]()
+            'Application.[Exit]()
         End Try
     End Sub
     Private Sub backgroundWorker1_DoWork(ByVal sender As Object, ByVal e As DoWorkEventArgs) Handles BackgroundWorker1.DoWork
@@ -271,7 +271,7 @@ Public Class frmSplash
             MessageBox.Show(ex.Message)
             Dim mensaje As String = "Instale o Actualice como administrador: " & Environment.NewLine & "Clic derecho sobre icono del programa -> Ejecutar como administrador"
             MessageBox.Show(mensaje & " detalle: " & ex.Message, "Sistema")
-            Application.[Exit]()
+            'Application.[Exit]()
         End Try
 
         Cursor.Current = Cursors.[Default]

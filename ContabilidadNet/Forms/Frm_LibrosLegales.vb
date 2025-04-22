@@ -1018,9 +1018,13 @@ Public Class Frm_LibrosLegales
         Dim FlagtieneRegistros As String
         Dim nombredearchivo As String = ""
         Dim dia As String
+        Dim AnioAnt As String
         'DATATABLE'
         Dim dt As New DataSet
-        dt = objSql.TraerDataSet("Spu_Con_Rep_BalGenCom_PLE", gbcodempresa, gbano, gbmes, "2022", "S")
+        AnioAnt = Convert.ToString(Convert.ToInt32(gbano) - 1)
+
+        dt = objSql.TraerDataSet("Spu_Con_Rep_BalGenCom_PLE", gbcodempresa, gbano, gbmes, AnioAnt, "S")
+
         '======
         If dt.Tables(0).Rows.Count > 0 Then
             FlagtieneRegistros = "1"

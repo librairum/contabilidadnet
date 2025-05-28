@@ -136,6 +136,61 @@ Public Class Frm_VoucherAT_abc
             MessageBox.Show(ex.Message)
         End Try
     End Sub
+    Dim tipoDoc As String = "", nroDoc As String = "", tipoMoneda As String = "", tipoAnalisis As String = "",
+        codctaCte As String = "", numeroComprobante As String = ""
+    Dim tipoCambio As Double = 0, importeTotal As Double = 0
+    Sub TraerDatoaGeneraVoucher()
+        Try
+            'Vista = objSql.TraerDataTable("Sp_Con_Trae_DatoGeneraVoucher", gbcodempresa, gbano, gbmes, txtlibro.Text, txtNoVoucher.Text).DefaultView;
+            tablaDet = objSql.TraerDataTable("Sp_Con_Trae_DatoGeneraVoucher", gbcodempresa, gbano, gbmes, txtlibro.Text, txtNoVoucher.Text)
+            Dim tablaDetTipDoc As New DataTable
+
+            tipoDoc = ""
+            nroDoc = ""
+            tipoMoneda = ""
+            tipoAnalisis = ""
+            codctaCte = ""
+            tipoCambio = 0
+            importeTotal = 0
+            numeroComprobante = ""
+            'Dim tipoMoneda As String = tablaDet.Rows
+            tipoDoc = tablaDet.Rows(0)(5).ToString
+            nroDoc = tablaDet.Rows(0)(6).ToString
+            tipoMoneda = tablaDet.Rows(0)(7).ToString
+            tipoCambio = CDbl(tablaDet.Rows(0)(8))
+            tipoAnalisis = tablaDet.Rows(0)(9).ToString
+            codctaCte = tablaDet.Rows(0)(10).ToString
+            importeTotal = CDbl(tablaDet.Rows(0)(11))
+            numeroComprobante = tablaDet.Rows(0)(12).ToString
+
+            Me.txtTipDoc.Text = tipoDoc
+            Me.txtimporte.Text = importeTotal.ToString()
+            'Me.cbomoneda.SelectedValue = tipoMoneda
+            Me.cbomoneda.Text = tipoMoneda
+            Me.txtNoDoc.Text = nroDoc
+            Me.txtTipCambio.Text = tipoCambio.ToString
+            Me.txtCtaCte.Text = codctaCte
+            Me.txtcomprobante.Text = numeroComprobante
+            Dim datosCuenta As New DataView
+            datosCuenta = objSql.TraerDataTable("Spu_Con_help_ccm02cta", gbcodempresa).DefaultView
+            datosCuenta.RowFilter = "ccm02cod = '" & codctaCte & "'"
+            For Each rowView As DataRowView In datosCuenta
+                Dim nombreCuenta As String = rowView("ccm02nom").ToString
+                lblhelp_3.Text = nombreCuenta
+                'Console.WriteLine(nombreCuenta)
+            Next
+            'dataview
+            Dim dvTipoDocumento As New DataView
+            dvTipoDocumento = objSql.TraerDataTable("sp_Con_Help_Tipos_Documentos", gbcodempresa, "*", "*").DefaultView
+            dvTipoDocumento.RowFilter = "ccb02cod='" & txtTipDoc.Text & "'"
+            For Each rw As DataRowView In dvTipoDocumento
+                Dim nombreTipDoc As String = rw("ccb02des").ToString
+                lblhelp_2.Text = nombreTipDoc
+            Next
+        Catch ex As Exception
+            MessageBox.Show(ex.Message)
+        End Try
+    End Sub
     Private Sub SeteaVoucher()
         Try
             txtNoVoucher.Enabled = (Mod_BaseDatos.DameDescripcion(gbano + txtlibro.Text, "LN") = "S")
@@ -213,7 +268,12 @@ Public Class Frm_VoucherAT_abc
             Me.HabilitarMantenimiento(True)
 
             'Habilita
-            grbdatosdet.Enabled = False
+            If Me.accionMante = "M" Then
+                grbdatosdet.Enabled = True
+            Else
+                grbdatosdet.Enabled = False
+            End If
+
             btngenerarat.Enabled = False
             btncancelaat.Enabled = False
             'Deshabilto mantenimiento
@@ -275,6 +335,13 @@ Public Class Frm_VoucherAT_abc
             mskfecha.Enabled = If((Me.accionMante Is "M"), False, valor)
             '
             tblconsulta.Enabled = Not valor
+            'campos a generar voucher
+            Me.txtNoDoc.Enabled = If((Me.accionMante Is "M"), True, Not valor)
+            Me.txtTipDoc.Enabled = If((Me.accionMante Is "M"), True, Not valor)
+            Me.txtTipCambio.Enabled = If((Me.accionMante Is "M"), True, Not valor)
+            Me.cbomoneda.Enabled = If((Me.accionMante Is "M"), True, Not valor)
+            Me.txtcomprobante.Enabled = If((Me.accionMante Is "M"), True, Not valor)
+            txtimporte.Enabled = False
             '
         Catch ex As Exception
         End Try
@@ -316,7 +383,11 @@ Public Class Frm_VoucherAT_abc
                 txtNoVoucher.Text = filaactiva("ccc01numer").ToString
                 mskfecha.Text = filaactiva("ccc01fecha").ToString
                 txtDescri.Text = filaactiva("ccc01deta").ToString
+                'obtener nombre de la cta cte
+                
+                'cargar datos de la cuenta contable 42 y mostrar informacion de numero documento, tipo documento, tipo de cambio, 
                 Me.CargaDetalleVoucher()
+                Me.TraerDatoaGeneraVoucher()
             End If
         Catch ex As Exception
             MessageBox.Show(ex.Message, "ERROR :: Al enlazar datos", MessageBoxButtons.OK, MessageBoxIcon.Information)
@@ -528,6 +599,59 @@ Public Class Frm_VoucherAT_abc
             MessageBox.Show(ex.Message)
         End Try
     End Function
+
+    Private Function ModificoCamposGenerarVoucher() As Boolean
+        Try
+            Dim a As Array = Array.CreateInstance(GetType(Object), 2, 10)
+            If editoMoneda Or editoNroDocumento Or editoTipoCambio _
+                Or editoTipoDocumento Or editoComprobante Or editoCtaCte  Then
+
+                a = objSql.Ejecutar2("Sp_Con_Upd_DetalleVoucherMasivo", gbcodempresa, gbano, gbmes,
+                                 txtlibro.Text, txtNoVoucher.Text, txtTipDoc.Text,
+                                    txtNoDoc.Text, tipoAnalisis, txtCtaCte.Text, cbomoneda.Text,
+                                    txtTipCambio.Text, txtcomprobante.Text, "")
+
+
+            End If
+
+            Dim i As Integer
+            If a.GetValue(1, 0).ToString <> "-1" Then 'Lee la variable RETURN_VALUES
+                'Otros Mnsajes
+                For i = 1 To 9
+                    If CType(a.GetValue(0, i), String) Is Nothing Then
+                        Exit For
+                    Else
+                        If CType(a.GetValue(0, i), String) = "@cMsgRetorno" Then
+                            MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                        End If
+                    End If
+                Next
+                'Si todo esta bien
+                'Buscar y posicionar, despues de la accion
+                frmOrigen.refrescarGrilla()
+                'frmOrigen.Posicionar("codigo", txtlibro.Text.Trim + txtNoVoucher.Text.Trim)
+                Me.HabilitarMantenimiento(False)
+            Else 'Fallo la ejecucion Sql 
+                'Mensajes de Fallo
+                For i = 1 To 9
+                    If CType(a.GetValue(0, i), String) Is Nothing Then
+                        Exit For
+                    Else
+                        MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                    End If
+                Next
+                '
+            End If
+        Catch ex As Exception
+            MessageBox.Show(ex.Message)
+        End Try
+
+        editoNroDocumento = False
+        editoTipoCambio = False
+        editoTipoCambio = False
+        editoMoneda = False
+
+    End Function
     Private Sub btngrabar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btngrabar.Click
         Try
             'Valido libro
@@ -547,6 +671,7 @@ Public Class Frm_VoucherAT_abc
                 a = objSql.Ejecutar2("sp_Con_Ins_Cabecera_Voucher", gbcodempresa, gbano, gbmes, txtlibro.Text, mskfecha.Text, txtDescri.Text, "", "N", txtNoVoucher.Text, "")
             ElseIf accionMante = "M" Then
                 a = objSql.Ejecutar2("sp_Con_Upd_Cabecera_Voucher", gbcodempresa, gbano, gbmes, txtlibro.Text, txtNoVoucher.Text, mskfecha.Text, txtDescri.Text, "")
+                ModificoCamposGenerarVoucher()
             Else
                 MessageBox.Show("VALIDA :: No Eligio una opcion valida", "Error de usuario", MessageBoxButtons.OK, MessageBoxIcon.Error) : Exit Sub
             End If
@@ -635,12 +760,18 @@ Public Class Frm_VoucherAT_abc
             e.Cancel = True
         End If
     End Sub
+    Dim editoNroDocumento As Boolean = False, editoTipoDocumento As Boolean = False, editoTipoCambio As Boolean = False,
+        editoMoneda As Boolean = False, editoComprobante As Boolean = False, editoCtaCte As Boolean = False
 
     Private Sub Frm_VoucherAT_abc_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         'Inicializo mi formulario desde donde se cargo 
         Try
             inicioControlesDiseno()
-
+            'inicio variables de edicion
+            editoNroDocumento = False
+            editoTipoCambio = False
+            editoTipoCambio = False
+            editoMoneda = False
             Mod_Mantenimiento.formatearformulario(Me)
             Mod_Mantenimiento.Centrar(Me)
             Me.Text = "Cabecera de voucher tipo"
@@ -1218,21 +1349,7 @@ Public Class Frm_VoucherAT_abc
         End Try
     End Sub
 
-    Private Sub lblhelp_1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblhelp_1.Click
-
-    End Sub
-
-    Private Sub tblconsulta_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles tblconsulta.Click
-
-    End Sub
-
-    Private Sub grbdatosdet_Enter(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles grbdatosdet.Enter
-
-    End Sub
-
-    Private Sub mskfecha_MaskInputRejected(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MaskInputRejectedEventArgs) Handles mskfecha.MaskInputRejected
-
-    End Sub
+    
 
     Private Sub btnreferencias_Click(sender As System.Object, e As System.EventArgs) Handles btnreferencias.Click
         'Validar si esta abierto
@@ -1258,4 +1375,54 @@ Public Class Frm_VoucherAT_abc
         End Try
     End Sub
 
+    
+
+    Private Sub txtNoDoc_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtNoDoc.Leave
+        If nroDoc.Equals(txtNoDoc.Text) = False Then
+            editoNroDocumento = True
+        Else
+            editoNroDocumento = False
+        End If
+    End Sub
+
+    Private Sub txtTipDoc_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtTipDoc.Leave
+        If tipoDoc.Equals(txtTipDoc.Text) = False Then
+            editoTipoDocumento = True
+        Else
+            editoTipoDocumento = False
+        End If
+    End Sub
+
+    Private Sub txtTipCambio_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtTipCambio.Leave
+        If CDbl(tipoCambio).Equals(CDbl(txtTipCambio.Text)) = False Then
+            editoTipoCambio = True
+        Else
+            editoTipoCambio = False
+        End If
+    End Sub
+
+    Private Sub cbomoneda_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles cbomoneda.Leave
+        If tipoMoneda.Equals(cbomoneda.Text) = False Then
+            editoMoneda = True
+        Else
+            editoMoneda = False
+        End If
+    End Sub
+
+
+    Private Sub txtcomprobante_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtcomprobante.Leave
+        If numeroComprobante.Equals(txtcomprobante.Text) = False Then
+            editoComprobante = True
+        Else
+            editoComprobante = False
+        End If
+    End Sub
+
+    Private Sub txtCtaCte_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtCtaCte.Leave
+        If codctaCte.Equals(txtCtaCte.Text) = False Then
+            editoCtaCte = True
+        Else
+            editoCtaCte = False
+        End If
+    End Sub
 End Class

@@ -120,7 +120,11 @@ Public Class Frm_Empresa_Seleccionar
             gbTasaRetencion = CType(FilaDeTabla("TasaRetencion").ToString, Double)
 
             '
-            gbano = FilaDeTabla("Ejercicio").ToString()
+
+            'Nota: el año se toma de usuario , en caso el usuaro no tenga año se le asigna el de la empresa
+            If (gbano = "") Then
+                gbano = FilaDeTabla("Ejercicio").ToString()
+            End If
             MDIPrincipal.ToolTip1.SetToolTip(btnver, "Modifcar")
 
             MDIPrincipal.Text = gbNomEmpresa

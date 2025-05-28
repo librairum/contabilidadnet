@@ -808,9 +808,6 @@ D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\C
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\ContabilidadNet.exe
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\ContabilidadNet.pdb
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\ContabilidadNet.xml
-D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\C1.C1Excel.2.dll
-D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\C1.C1Report.2.dll
-D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\Encriptador.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\Funciones.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\FuncionesC.dll
@@ -825,9 +822,6 @@ D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\C
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\Funciones.pdb
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\Funciones.xml
-D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\C1.C1Excel.2.xml
-D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\C1.C1Report.2.xml
-D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\C1.Win.C1Report.2.xml
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\FuncionesC.pdb
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\Reporte.pdb
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\ContabilidadNet\bin\Debug\Reporte.xml

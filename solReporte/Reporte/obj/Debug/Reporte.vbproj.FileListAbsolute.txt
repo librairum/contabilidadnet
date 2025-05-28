@@ -166,7 +166,6 @@ C:\Users\ivan\Documents\William_nivargo\contabilidadnet\solReporte\Reporte\obj\D
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\solReporte\Reporte\bin\Debug\Reporte.dll
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\solReporte\Reporte\bin\Debug\Reporte.pdb
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\solReporte\Reporte\bin\Debug\Reporte.xml
-D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\solReporte\Reporte\obj\Debug\Reporte.vbprojResolveAssemblyReference.cache
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\solReporte\Reporte\obj\Debug\Ks.Com.Win.CystalReports.Net.Forms.FormVisor.resources
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\solReporte\Reporte\obj\Debug\Resources.resources
 D:\PROYECTOS_29082024\CONTABILIDAD\Contabilidadnet_Repositorio\contabilidadnet\solReporte\Reporte\obj\Debug\Reporte.vbproj.GenerateResource.Cache

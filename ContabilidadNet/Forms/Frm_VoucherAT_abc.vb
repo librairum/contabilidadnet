@@ -137,8 +137,9 @@ Public Class Frm_VoucherAT_abc
         End Try
     End Sub
     Dim tipoDoc As String = "", nroDoc As String = "", tipoMoneda As String = "", tipoAnalisis As String = "",
-        codctaCte As String = "", numeroComprobante As String = ""
+        codctaCte As String = "", numeroComprobante As String = "", fechaDocCadena As String = ""
     Dim tipoCambio As Double = 0, importeTotal As Double = 0
+    Dim fechaDoc As DateTime
     Sub TraerDatoaGeneraVoucher()
         Try
             'Vista = objSql.TraerDataTable("Sp_Con_Trae_DatoGeneraVoucher", gbcodempresa, gbano, gbmes, txtlibro.Text, txtNoVoucher.Text).DefaultView;
@@ -162,6 +163,7 @@ Public Class Frm_VoucherAT_abc
             codctaCte = tablaDet.Rows(0)(10).ToString
             importeTotal = CDbl(tablaDet.Rows(0)(11))
             numeroComprobante = tablaDet.Rows(0)(12).ToString
+            fechaDoc = CDate(tablaDet.Rows(0)(13))
 
             Me.txtTipDoc.Text = tipoDoc
             Me.txtimporte.Text = importeTotal.ToString()
@@ -171,6 +173,7 @@ Public Class Frm_VoucherAT_abc
             Me.txtTipCambio.Text = tipoCambio.ToString
             Me.txtCtaCte.Text = codctaCte
             Me.txtcomprobante.Text = numeroComprobante
+            Me.fechaDocCadena = fechaDoc.ToString("dd/MM/yyyy")
             Dim datosCuenta As New DataView
             datosCuenta = objSql.TraerDataTable("Spu_Con_help_ccm02cta", gbcodempresa).DefaultView
             datosCuenta.RowFilter = "ccm02cod = '" & codctaCte & "'"
@@ -341,6 +344,7 @@ Public Class Frm_VoucherAT_abc
             Me.txtTipCambio.Enabled = If((Me.accionMante Is "M"), True, Not valor)
             Me.cbomoneda.Enabled = If((Me.accionMante Is "M"), True, Not valor)
             Me.txtcomprobante.Enabled = If((Me.accionMante Is "M"), True, Not valor)
+            Me.mskfecha.Enabled = If((Me.accionMante Is "M"), True, Not valor)
             txtimporte.Enabled = False
             '
         Catch ex As Exception
@@ -601,47 +605,51 @@ Public Class Frm_VoucherAT_abc
     End Function
 
     Private Function ModificoCamposGenerarVoucher() As Boolean
+        Dim flagExitosa As Boolean = False
         Try
             Dim a As Array = Array.CreateInstance(GetType(Object), 2, 10)
             If editoMoneda Or editoNroDocumento Or editoTipoCambio _
-                Or editoTipoDocumento Or editoComprobante Or editoCtaCte  Then
+                Or editoTipoDocumento Or editoComprobante Or editoCtaCte Or editoFecha Then
 
                 a = objSql.Ejecutar2("Sp_Con_Upd_DetalleVoucherMasivo", gbcodempresa, gbano, gbmes,
-                                 txtlibro.Text, txtNoVoucher.Text, txtTipDoc.Text,
+                                 txtlibro.Text, txtNoVoucher.Text,
+                                    mskfecha.Text, txtDescri.Text, txtTipDoc.Text,
                                     txtNoDoc.Text, tipoAnalisis, txtCtaCte.Text, cbomoneda.Text,
                                     txtTipCambio.Text, txtcomprobante.Text, "")
-
+                flagExitosa = True
 
             End If
-
-            Dim i As Integer
-            If a.GetValue(1, 0).ToString <> "-1" Then 'Lee la variable RETURN_VALUES
-                'Otros Mnsajes
-                For i = 1 To 9
-                    If CType(a.GetValue(0, i), String) Is Nothing Then
-                        Exit For
-                    Else
-                        If CType(a.GetValue(0, i), String) = "@cMsgRetorno" Then
-                            MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            If flagExitosa = True Then
+                Dim i As Integer
+                If a.GetValue(1, 0).ToString <> "-1" Then 'Lee la variable RETURN_VALUES
+                    'Otros Mnsajes
+                    For i = 1 To 9
+                        If CType(a.GetValue(0, i), String) Is Nothing Then
+                            Exit For
+                        Else
+                            If CType(a.GetValue(0, i), String) = "@cMsgRetorno" Then
+                                MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                            End If
                         End If
-                    End If
-                Next
-                'Si todo esta bien
-                'Buscar y posicionar, despues de la accion
-                frmOrigen.refrescarGrilla()
-                'frmOrigen.Posicionar("codigo", txtlibro.Text.Trim + txtNoVoucher.Text.Trim)
-                Me.HabilitarMantenimiento(False)
-            Else 'Fallo la ejecucion Sql 
-                'Mensajes de Fallo
-                For i = 1 To 9
-                    If CType(a.GetValue(0, i), String) Is Nothing Then
-                        Exit For
-                    Else
-                        MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Error)
-                    End If
-                Next
-                '
+                    Next
+                    'Si todo esta bien
+                    'Buscar y posicionar, despues de la accion
+                    frmOrigen.refrescarGrilla()
+                    'frmOrigen.Posicionar("codigo", txtlibro.Text.Trim + txtNoVoucher.Text.Trim)
+                    Me.HabilitarMantenimiento(False)
+                Else 'Fallo la ejecucion Sql 
+                    'Mensajes de Fallo
+                    For i = 1 To 9
+                        If CType(a.GetValue(0, i), String) Is Nothing Then
+                            Exit For
+                        Else
+                            MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                        End If
+                    Next
+                    '
+                End If
             End If
+            
         Catch ex As Exception
             MessageBox.Show(ex.Message)
         End Try
@@ -666,48 +674,71 @@ Public Class Frm_VoucherAT_abc
             'Ejecutar la insercion o Actualizacion
             Dim a As Array = Array.CreateInstance(GetType(Object), 2, 10)
             Cursor.Current = Cursors.WaitCursor
+            Dim flagExitoso As Boolean = False
 
             If accionMante = "N" Then
                 a = objSql.Ejecutar2("sp_Con_Ins_Cabecera_Voucher", gbcodempresa, gbano, gbmes, txtlibro.Text, mskfecha.Text, txtDescri.Text, "", "N", txtNoVoucher.Text, "")
+                flagExitoso = True
             ElseIf accionMante = "M" Then
-                a = objSql.Ejecutar2("sp_Con_Upd_Cabecera_Voucher", gbcodempresa, gbano, gbmes, txtlibro.Text, txtNoVoucher.Text, mskfecha.Text, txtDescri.Text, "")
-                ModificoCamposGenerarVoucher()
+                'codigo comentado por ivan 30/05
+                'a = objSql.Ejecutar2("sp_Con_Upd_Cabecera_Voucher", gbcodempresa, gbano, gbmes, txtlibro.Text, txtNoVoucher.Text, mskfecha.Text, txtDescri.Text, "")
+                'codigo comentado por ivna 30/05
+                'ModificoCamposGenerarVoucher()
+
+                If editoMoneda Or editoNroDocumento Or editoTipoCambio _
+                Or editoTipoDocumento Or editoComprobante Or editoCtaCte Or editoFecha Then
+
+                    a = objSql.Ejecutar2("Sp_Con_Upd_DetalleVoucherMasivo", gbcodempresa, gbano, gbmes,
+                                     txtlibro.Text, txtNoVoucher.Text,
+                                        mskfecha.Text, txtDescri.Text, txtTipDoc.Text,
+                                        txtNoDoc.Text, tipoAnalisis, txtCtaCte.Text, cbomoneda.Text,
+                                        txtTipCambio.Text, txtcomprobante.Text, "")
+                    flagExitoso = True
+
+                End If
+
+
             Else
                 MessageBox.Show("VALIDA :: No Eligio una opcion valida", "Error de usuario", MessageBoxButtons.OK, MessageBoxIcon.Error) : Exit Sub
             End If
             ' Se hizo todo el codig por que se nesecitava personalizar
-            Dim i As Integer
-            If a.GetValue(1, 0).ToString <> "-1" Then 'Lee la variable RETURN_VALUES
-                'Otros Mnsajes
-                For i = 1 To 9
-                    If CType(a.GetValue(0, i), String) Is Nothing Then
-                        Exit For
-                    Else
-                        If CType(a.GetValue(0, i), String) = "@cMsgRetorno" Then
-                            MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Information)
-                        End If
-                    End If
-                Next
-                'Si todo esta bien
-                'Buscar y posicionar, despues de la accion
-                frmOrigen.refrescarGrilla()
-                frmOrigen.Posicionar("codigo", txtlibro.Text.Trim + txtNoVoucher.Text.Trim)
-                Me.HabilitarMantenimiento(False)
+            If flagExitoso = True Then
 
-                'Cargar el nuevo detalle
-                If accionMante = "N" Then
-                    Me.lnkNuevo_LinkClicked(Nothing, Nothing)
-                End If
-            Else 'Fallo la ejecucion Sql 
-                'Mensajes de Fallo
-                For i = 1 To 9
-                    If CType(a.GetValue(0, i), String) Is Nothing Then
-                        Exit For
-                    Else
-                        MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Error)
+
+                Dim i As Integer
+                If a.GetValue(1, 0).ToString <> "-1" Then 'Lee la variable RETURN_VALUES
+                    'Otros Mnsajes
+                    For i = 1 To 9
+                        If CType(a.GetValue(0, i), String) Is Nothing Then
+                            Exit For
+                        Else
+                            If CType(a.GetValue(0, i), String) = "@cMsgRetorno" Then
+                                MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                            End If
+                        End If
+                    Next
+                    'Si todo esta bien
+                    'Buscar y posicionar, despues de la accion
+                    frmOrigen.refrescarGrilla()
+                    frmOrigen.Posicionar("codigo", txtlibro.Text.Trim + txtNoVoucher.Text.Trim)
+                    Me.HabilitarMantenimiento(False)
+                    'refrescar grilla detalle 
+                    CargaDetalleVoucher()
+                    'Cargar el nuevo detalle
+                    If accionMante = "N" Then
+                        Me.lnkNuevo_LinkClicked(Nothing, Nothing)
                     End If
-                Next
-                '
+                Else 'Fallo la ejecucion Sql 
+                    'Mensajes de Fallo
+                    For i = 1 To 9
+                        If CType(a.GetValue(0, i), String) Is Nothing Then
+                            Exit For
+                        Else
+                            MessageBox.Show(a.GetValue(1, i).ToString, "", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                        End If
+                    Next
+                    '
+                End If
             End If
             Cursor.Current = Cursors.Default
         Catch ex As Exception
@@ -761,7 +792,7 @@ Public Class Frm_VoucherAT_abc
         End If
     End Sub
     Dim editoNroDocumento As Boolean = False, editoTipoDocumento As Boolean = False, editoTipoCambio As Boolean = False,
-        editoMoneda As Boolean = False, editoComprobante As Boolean = False, editoCtaCte As Boolean = False
+        editoMoneda As Boolean = False, editoComprobante As Boolean = False, editoCtaCte As Boolean = False, editoFecha As Boolean = False
 
     Private Sub Frm_VoucherAT_abc_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         'Inicializo mi formulario desde donde se cargo 
@@ -1424,5 +1455,21 @@ Public Class Frm_VoucherAT_abc
         Else
             editoCtaCte = False
         End If
+    End Sub
+
+    Private Sub mskfecha_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles mskfecha.Leave
+        'obtener el tipo de cambio por fecha
+        If fechaDocCadena.Equals(mskfecha.Text) = False Then
+            editoFecha = True
+            Dim tipoCambio As Double = 0
+            tipoCambio = CType(objSql.TraerValor("Spu_Ban_Trae_TipoCambioxFecha", mskfecha.Text, 0), Double)
+            txtTipCambio.Text = tipoCambio.ToString
+            editoFecha = True
+
+        Else
+            editoFecha = False
+        End If
+
+        
     End Sub
 End Class

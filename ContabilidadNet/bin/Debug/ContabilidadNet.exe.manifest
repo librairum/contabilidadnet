@@ -237,14 +237,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ContabilidadNet.exe" size="9383424">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ContabilidadNet.exe" size="9384448">
       <assemblyIdentity name="ContabilidadNet" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>FRxFN3tTSlo5bWTes4lLjnt2KOw=</dsig:DigestValue>
+        <dsig:DigestValue>d6tZMnzd3QqV6OfF6X1GD/G1A1o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

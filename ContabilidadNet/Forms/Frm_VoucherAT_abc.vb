@@ -685,17 +685,17 @@ Public Class Frm_VoucherAT_abc
                 'codigo comentado por ivna 30/05
                 'ModificoCamposGenerarVoucher()
 
-                If editoMoneda Or editoNroDocumento Or editoTipoCambio _
-                Or editoTipoDocumento Or editoComprobante Or editoCtaCte Or editoFecha Then
+                'If editoMoneda Or editoNroDocumento Or editoTipoCambio _
+                'Or editoTipoDocumento Or editoComprobante Or editoCtaCte Or editoFecha Or editoGlosa Then
+                'End If
+                a = objSql.Ejecutar2("Sp_Con_Upd_DetalleVoucherMasivo", gbcodempresa, gbano, gbmes,
+                                 txtlibro.Text, txtNoVoucher.Text,
+                                    mskfecha.Text, txtDescri.Text, txtTipDoc.Text,
+                                    txtNoDoc.Text, tipoAnalisis, txtCtaCte.Text, cbomoneda.Text,
+                                    txtTipCambio.Text, txtcomprobante.Text, "")
+                flagExitoso = True
 
-                    a = objSql.Ejecutar2("Sp_Con_Upd_DetalleVoucherMasivo", gbcodempresa, gbano, gbmes,
-                                     txtlibro.Text, txtNoVoucher.Text,
-                                        mskfecha.Text, txtDescri.Text, txtTipDoc.Text,
-                                        txtNoDoc.Text, tipoAnalisis, txtCtaCte.Text, cbomoneda.Text,
-                                        txtTipCambio.Text, txtcomprobante.Text, "")
-                    flagExitoso = True
 
-                End If
 
 
             Else
@@ -792,7 +792,9 @@ Public Class Frm_VoucherAT_abc
         End If
     End Sub
     Dim editoNroDocumento As Boolean = False, editoTipoDocumento As Boolean = False, editoTipoCambio As Boolean = False,
-        editoMoneda As Boolean = False, editoComprobante As Boolean = False, editoCtaCte As Boolean = False, editoFecha As Boolean = False
+        editoMoneda As Boolean = False, editoComprobante As Boolean = False, editoCtaCte As Boolean = False, editoFecha As Boolean = False,
+    editoGlosa As Boolean = False
+
 
     Private Sub Frm_VoucherAT_abc_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         'Inicializo mi formulario desde donde se cargo 
@@ -803,6 +805,7 @@ Public Class Frm_VoucherAT_abc
             editoTipoCambio = False
             editoTipoCambio = False
             editoMoneda = False
+            editoGlosa = False
             Mod_Mantenimiento.formatearformulario(Me)
             Mod_Mantenimiento.Centrar(Me)
             Me.Text = "Cabecera de voucher tipo"
@@ -1471,5 +1474,14 @@ Public Class Frm_VoucherAT_abc
         End If
 
         
+    End Sub
+
+    Private Sub txtDescri_Leave(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtDescri.Leave
+        Dim glosaAnterior = frmOrigen.P_FilaDeTabla("ccc01deta").ToString()
+        If glosaAnterior.Equals(Me.txtDescri.Text) = False Then
+            editoGlosa = True
+        Else
+            editoGlosa = False
+        End If
     End Sub
 End Class
